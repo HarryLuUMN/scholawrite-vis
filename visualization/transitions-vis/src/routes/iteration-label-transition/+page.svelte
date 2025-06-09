@@ -3,6 +3,8 @@
   import * as d3 from 'd3';
   import { generateLabelMap } from '$lib/labelMap';
   import { goto } from '$app/navigation';
+  import { hierarchicalLabel } from './const';
+    import { base } from '$app/paths';
 
   export let data: { models: string[] };
 
@@ -10,6 +12,13 @@
   let selectedModel: string = models[0];
   let svgContainer: SVGSVGElement;
   let labelMap: Record<string, { short: string; color: string }> = {};
+  let viewState = 'detailed'; // 'high-level' or 'detailed';
+  let parsed:LabelRow[] = [];
+  let zoomScale = 1.0;
+
+  const baseCellSize = 40;
+  const viewStates = ['high-level', 'detailed'];
+  const cellSize = baseCellSize * zoomScale;
 
   interface LabelRow {
     iteration: string;
@@ -24,6 +33,19 @@
     if (selectedModel) {
       loadAndRender();
     }
+
+    const svg = d3.select(svgContainer);
+    svg.call(
+      d3.zoom<SVGSVGElement, unknown>()
+        .scaleExtent([0.2, 5])
+        .on('zoom', (event) => {
+          const newScale = event.transform.k;
+          if (Math.abs(zoomScale - newScale) > 0.01) {
+            zoomScale = newScale;
+            redraw();
+          }
+        })
+    );
   });
 
   async function loadAndRender() {
@@ -36,7 +58,7 @@
     }
 
     const text = await res.text();
-    const parsed: LabelRow[] = d3.csvParse(text);
+    parsed = d3.csvParse(text);
 
     if (!parsed || parsed.length === 0 || !parsed[0].label) {
       console.error('Parsed data invalid or missing label field:', parsed);
@@ -44,13 +66,83 @@
     }
 
     labelMap = generateLabelMap(parsed);
-    drawGrid(parsed, labelMap);
+    if (viewState === 'high-level') {
+      drawHighLevelGrid(parsed);
+    } else {
+      drawDetailedLevelGrid(parsed);
+    }
   }
 
-  function drawGrid(data: LabelRow[], labelMap: Record<string, { short: string; color: string }>) {
-    const cellSize = 40;
-    const paddingLeft = 100;
-    const paddingTop = 30;
+  function drawHighLevelGrid(parsed: LabelRow[]) {
+    let i = 0;
+
+    const iterations = parsed.map(d => +d.iteration);
+  const maxIter = d3.max(iterations) ?? 0;
+
+  const paddingLeft = 100;
+  const width = paddingLeft + (maxIter + 1) * cellSize;
+  
+  const height = 3 * cellSize + 60;
+    
+    d3.select(svgContainer).selectAll('*').remove();
+
+      d3.select(svgContainer)
+        .attr('width', width)
+        .attr('height', height)
+        .attr("id", "iteration-label-grid");
+    for (const [category, labels] of Object.entries(hierarchicalLabel)) {
+      let iterLabels = false;
+      if (i === 0) iterLabels = true;
+      drawGrid(parsed, 100, 30 + i * cellSize, labelMap, category, iterLabels);
+      i++;
+    }
+
+  }
+
+  function drawDetailedLevelGrid(parsed: LabelRow[]) {
+  const allDetailedLabels = Object.values(hierarchicalLabel).flat();
+  d3.select(svgContainer).selectAll('*').remove();
+
+  const iterations = parsed.map(d => +d.iteration);
+  const maxIter = d3.max(iterations) ?? 0;
+
+  const paddingLeft = 100;
+  const width = paddingLeft + (maxIter + 1) * cellSize;
+  
+  const height = allDetailedLabels.length * cellSize + 60;
+  console.log("len", allDetailedLabels.length, height);
+
+  d3.select(svgContainer)
+    .attr('width', width)
+    .attr('height', height)
+    .attr("id", "detailed-label-grid");
+
+  allDetailedLabels.forEach((label, i) => {
+    const pseudoCategory = label;
+    const pseudoHierarchy: Record<string, string[]> = { [label]: [label] };
+    drawGrid(
+      parsed,
+      paddingLeft,
+      30 + i * cellSize,
+      labelMap,
+      pseudoCategory,
+      i === 0,
+      pseudoHierarchy
+    )
+  });
+}
+
+  function drawGrid(
+    data: LabelRow[], 
+    startX: number,
+    startY: number,
+    labelMap: Record<string, { short: string; color: string }>,
+    category: string,
+    iterLabels: boolean = true,
+    labelFilterMap: Record<string, string[]> = hierarchicalLabel
+  ) {
+    const paddingLeft = startX;
+    const paddingTop = startY;
 
     const iterations = data.map(d => +d.iteration);
     const maxIter = d3.max(iterations) ?? 0;
@@ -58,62 +150,86 @@
     const width = paddingLeft + (maxIter + 1) * cellSize;
     const height = cellSize + paddingTop;
 
-    d3.select(svgContainer).selectAll('*').remove();
-
-    const svg = d3.select(svgContainer)
-      .attr('width', width)
-      .attr('height', height);
-
+    const svg = d3.select(svgContainer);
     const g = svg.append('g');
 
-    // iteration numbers
-    for (let i = 0; i <= maxIter; i++) {
-      g.append('text')
-        .attr('x', paddingLeft + i * cellSize + cellSize / 2)
-        .attr('y', paddingTop - 10)
-        .attr('text-anchor', 'middle')
-        .attr('font-size', '10px')
-        .attr('fill', '#444')
-        .text(i);
+    if(iterLabels && cellSize >= baseCellSize/2) {
+      for (let i = 0; i <= maxIter; i++) {
+        g.append('text')
+          .attr('x', paddingLeft + i * cellSize + cellSize / 2)
+          .attr('y', paddingTop - 10)
+          .attr('text-anchor', 'middle')
+          .attr('font-size', '10px')
+          .attr('fill', '#444')
+          .text(i);
+      }
     }
 
-    // project label
     g.append('text')
       .attr('x', paddingLeft - 10)
       .attr('y', paddingTop + cellSize / 2 + 5)
       .attr('text-anchor', 'end')
       .attr('font-size', '12px')
-      .text('Project 1');
+      .text(category);
 
-    // colored cells
+    const filteredData = data.filter((d:any) => labelFilterMap[category]?.includes(d.label));
+
     g.selectAll('rect')
-      .data(data)
+      .data(filteredData)
       .enter()
       .append('rect')
-      .attr('x', d => paddingLeft + +d.iteration * cellSize)
+      .attr('x', (d: any) => paddingLeft + +d.iteration * cellSize)
       .attr('y', paddingTop)
       .attr('width', cellSize)
       .attr('height', cellSize)
-      .attr('fill', d => labelMap[d.label]?.color || '#ccc')
+      .attr('fill', (d: any) => labelMap[d.label]?.color || '#ccc')
       .attr('stroke', '#999');
 
-    // short label in cells
+    g.selectAll('circle')
+      .data(filteredData)
+      .enter()
+      .append('circle')
+      .attr('cx', (d: any) => paddingLeft + +d.iteration * cellSize + cellSize / 2)
+      .attr('cy', paddingTop + cellSize / 2)
+      .attr('r', cellSize / 2)
+      .attr('fill', "none")
+      .attr('stroke', 'black');
+
     g.selectAll('text.label')
-      .data(data)
+      .data(filteredData)
       .enter()
       .append('text')
       .attr('class', 'label')
-      .attr('x', d => paddingLeft + +d.iteration * cellSize + cellSize / 2)
+      .attr('x', (d: any) => paddingLeft + +d.iteration * cellSize + cellSize / 2)
       .attr('y', paddingTop + cellSize / 2 + 5)
       .attr('text-anchor', 'middle')
       .attr('font-size', '12px')
       .attr('fill', 'white')
-      .text(d => labelMap[d.label]?.short || '?');
+      .text((d: any) => labelMap[d.label]?.short || '?');
   }
+
+  function redraw() {
+    d3.select(svgContainer).selectAll('*').remove();
+    if (viewState === 'high-level') {
+      drawHighLevelGrid(parsed);
+    } else {
+      drawDetailedLevelGrid(parsed);
+    }
+  }
+
 
   function onModelChange(event: Event) {
     selectedModel = (event.target as HTMLSelectElement).value;
     loadAndRender();
+  }
+
+  function onViewChange(event: Event) {
+    viewState = (event.target as HTMLSelectElement).value;
+    if (viewState === 'high-level') {
+      drawHighLevelGrid(parsed);
+    } else {
+      drawDetailedLevelGrid(parsed);
+    }
   }
 </script>
 
@@ -127,6 +243,14 @@
     <select id="model-select" bind:value={selectedModel} on:change={onModelChange}>
       {#each models as model}
         <option value={model}>{model}</option>
+      {/each}
+    </select>
+  </div>
+  <div class="control-panel">
+    <label for="model-select">Select View:</label>
+    <select id="model-select" bind:value={viewState} on:change={onViewChange}>
+      {#each viewStates as state}
+        <option value={state}>{state}</option>
       {/each}
     </select>
   </div>
@@ -205,6 +329,7 @@
   }
 
   .scroll-container {
+    overflow-y: auto;
     overflow-x: auto;
     border: 1px solid #ccc;
     padding-bottom: 10px;
