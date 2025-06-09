@@ -80,9 +80,9 @@
   const maxIter = d3.max(iterations) ?? 0;
 
   const paddingLeft = 100;
-  const width = paddingLeft + (maxIter + 1) * cellSize;
+  const width = paddingLeft + (maxIter + 1) * getCellSize();
   
-  const height = 3 * cellSize + 60;
+  const height = 3 * getCellSize() + 60;
     
     d3.select(svgContainer).selectAll('*').remove();
 
@@ -93,7 +93,7 @@
     for (const [category, labels] of Object.entries(hierarchicalLabel)) {
       let iterLabels = false;
       if (i === 0) iterLabels = true;
-      drawGrid(parsed, 100, 30 + i * cellSize, labelMap, category, iterLabels);
+      drawGrid(parsed, 100, 30 + i * getCellSize(), labelMap, category, iterLabels);
       i++;
     }
 
@@ -107,9 +107,9 @@
   const maxIter = d3.max(iterations) ?? 0;
 
   const paddingLeft = 100;
-  const width = paddingLeft + (maxIter + 1) * cellSize;
+  const width = paddingLeft + (maxIter + 1) * getCellSize();
   
-  const height = allDetailedLabels.length * cellSize + 60;
+  const height = allDetailedLabels.length * getCellSize() + 60;
   console.log("len", allDetailedLabels.length, height);
 
   d3.select(svgContainer)
@@ -123,7 +123,7 @@
     drawGrid(
       parsed,
       paddingLeft,
-      30 + i * cellSize,
+      30 + i * getCellSize(),
       labelMap,
       pseudoCategory,
       i === 0,
@@ -147,16 +147,16 @@
     const iterations = data.map(d => +d.iteration);
     const maxIter = d3.max(iterations) ?? 0;
 
-    const width = paddingLeft + (maxIter + 1) * cellSize;
-    const height = cellSize + paddingTop;
+    const width = paddingLeft + (maxIter + 1) * getCellSize();
+    const height = getCellSize() + paddingTop;
 
     const svg = d3.select(svgContainer);
     const g = svg.append('g');
 
-    if(iterLabels && cellSize >= baseCellSize/2) {
+    if(iterLabels && getCellSize() >= baseCellSize/2) {
       for (let i = 0; i <= maxIter; i++) {
         g.append('text')
-          .attr('x', paddingLeft + i * cellSize + cellSize / 2)
+          .attr('x', paddingLeft + i * getCellSize() + getCellSize() / 2)
           .attr('y', paddingTop - 10)
           .attr('text-anchor', 'middle')
           .attr('font-size', '10px')
@@ -167,7 +167,7 @@
 
     g.append('text')
       .attr('x', paddingLeft - 10)
-      .attr('y', paddingTop + cellSize / 2 + 5)
+      .attr('y', paddingTop + getCellSize() / 2 + 5)
       .attr('text-anchor', 'end')
       .attr('font-size', '12px')
       .text(category);
@@ -178,10 +178,10 @@
       .data(filteredData)
       .enter()
       .append('rect')
-      .attr('x', (d: any) => paddingLeft + +d.iteration * cellSize)
+      .attr('x', (d: any) => paddingLeft + +d.iteration * getCellSize())
       .attr('y', paddingTop)
-      .attr('width', cellSize)
-      .attr('height', cellSize)
+      .attr('width', getCellSize())
+      .attr('height', getCellSize())
       .attr('fill', (d: any) => labelMap[d.label]?.color || '#ccc')
       .attr('stroke', '#999');
 
@@ -189,9 +189,9 @@
       .data(filteredData)
       .enter()
       .append('circle')
-      .attr('cx', (d: any) => paddingLeft + +d.iteration * cellSize + cellSize / 2)
-      .attr('cy', paddingTop + cellSize / 2)
-      .attr('r', cellSize / 2)
+      .attr('cx', (d: any) => paddingLeft + +d.iteration * getCellSize() + getCellSize() / 2)
+      .attr('cy', paddingTop + getCellSize() / 2)
+      .attr('r', getCellSize() / 2)
       .attr('fill', "none")
       .attr('stroke', 'black');
 
@@ -200,12 +200,16 @@
       .enter()
       .append('text')
       .attr('class', 'label')
-      .attr('x', (d: any) => paddingLeft + +d.iteration * cellSize + cellSize / 2)
-      .attr('y', paddingTop + cellSize / 2 + 5)
+      .attr('x', (d: any) => paddingLeft + +d.iteration * getCellSize() + getCellSize() / 2)
+      .attr('y', paddingTop + getCellSize() / 2 + 5)
       .attr('text-anchor', 'middle')
       .attr('font-size', '12px')
       .attr('fill', 'white')
       .text((d: any) => labelMap[d.label]?.short || '?');
+  }
+
+  function getCellSize() {
+    return baseCellSize * zoomScale;
   }
 
   function redraw() {
