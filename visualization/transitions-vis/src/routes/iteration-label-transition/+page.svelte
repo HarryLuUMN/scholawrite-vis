@@ -3,7 +3,7 @@
   import * as d3 from 'd3';
   import { generateLabelMap } from '$lib/labelMap';
   import { goto } from '$app/navigation';
-  import { hierarchicalLabel } from './const';
+  import { categoryBackgroundColors, hierarchicalLabel } from './const';
     import { base } from '$app/paths';
 
   export let data: { models: string[] };
@@ -153,6 +153,19 @@
     const svg = d3.select(svgContainer);
     const g = svg.append('g');
 
+    const bg = svg.append("g").attr("class", "bg")
+
+
+    const rowWidth = paddingLeft + (maxIter + 1) * getCellSize();
+
+    g.append('rect')
+      .attr('x', 0)
+      .attr('y', paddingTop)
+      .attr('width', rowWidth)
+      .attr('height', getCellSize())
+      .attr('fill', categoryBackgroundColors[resolveHighLevel(category)] || '#ffffff');
+
+
     if(iterLabels && getCellSize() >= baseCellSize/2) {
       for (let i = 0; i <= maxIter; i++) {
         g.append('text')
@@ -172,9 +185,11 @@
       .attr('font-size', '12px')
       .text(category);
 
+
+
     const filteredData = data.filter((d:any) => labelFilterMap[category]?.includes(d.label));
 
-    g.selectAll('rect')
+    g.selectAll('rect.cell')
       .data(filteredData)
       .enter()
       .append('rect')
@@ -207,6 +222,14 @@
       .attr('fill', 'white')
       .text((d: any) => labelMap[d.label]?.short || '?');
   }
+
+  function resolveHighLevel(label: string): string {
+    for (const [highLevel, subLabels] of Object.entries(hierarchicalLabel)) {
+      if (subLabels.includes(label) || highLevel === label) return highLevel;
+    }
+    return 'unknown';
+  }
+
 
   function getCellSize() {
     return baseCellSize * zoomScale;

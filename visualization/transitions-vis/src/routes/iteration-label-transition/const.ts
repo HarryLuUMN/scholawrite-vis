@@ -4,3 +4,8 @@ export const hierarchicalLabel: Record<string, string[]> = {
     "Revision": ["Fluency", "Coherence", "Clarity", "Structural", "Linguistic Style", "Scientific Accuracy", "Visual Formatting"]
 };
 
+export const categoryBackgroundColors: Record<string, string> = {
+  Planning: '#f0f8ff',         
+  Implementation: '#fffaf0',   
+  Revision: '#f5f5f5'        
+};
