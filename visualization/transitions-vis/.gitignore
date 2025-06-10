@@ -23,4 +23,4 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
 # Custom large file
-static/data/label-transition/scholawrite_train.xls
+static/data/label-transition/scholawrite_train.csv
