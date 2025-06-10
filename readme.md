@@ -9,7 +9,9 @@ This project was developed by Yilin(Harry) Lu, Shurui Du, and Qianwen Wang.
 ## Project Structure
 
 - visualization: source code for the visual analytical tool
-- inference: source code for the computational experiments of LLM scientific writing
+- experiments: source code for the computational experiments of LLM scientific writing
+    - inference: source code for the computational experiments for LLM writing intent prediction
+    - writing: source code for the computational experiments for LLM simulated writing process
 - analyses: source code for the computational experiments for data analyses
 
 ## Run this project

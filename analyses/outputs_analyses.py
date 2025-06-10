@@ -29,7 +29,6 @@ def process_zip_to_csv(zip_path, output_folder, model_name):
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall(temp_dir)
 
-    # 搜索可能存在的 generation 和 intention 路径（支持任意嵌套）
     gen_dir = find_subdir_with(["generation_openai", "generation"], temp_dir)
     int_dir = find_subdir_with(["intention_openai", "intention"], temp_dir)
 
