@@ -1,0 +1,13 @@
+{
+  "models": [
+    "gpt",
+    "gpt4.1-mini",
+    "label_sequence_1",
+    "label_sequence_2",
+    "label_sequence_3",
+    "label_sequence_4",
+    "label_sequence_5",
+    "llama_meta",
+    "llama_sw"
+  ]
+}

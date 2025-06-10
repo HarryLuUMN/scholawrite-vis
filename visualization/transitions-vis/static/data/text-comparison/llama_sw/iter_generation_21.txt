@@ -1,0 +1,26 @@
+Your response should limited to 2000 word tokens
+
+Your response should be 2000 word tokens
+
+Your response should be 2000 word tokens
+
+Your response should be limit to 2000 word tokens
+
+Your response should be limit to 2000 word tokens
+
+Your response should i limit to 2000 word tokens
+
+Your response should be limit to 2000 word tokens
+
+
+
+
+You may insert, delete, or revise text at appropriate places in the given paper.
+
+Please provide a complete output. Do not generate text that is nonsensical or unrelated to the given paper information.
+
+We propose an approach to creating generative models with multi-style control using reinforcement learnings with a reward derived from a dynamic linear combination of discriminator outputs. This technique results in generations that largely conform to the target styles. However, we do observe that, especially in the 3-style set up, our approach is not successful for contradictory, rare, or difficult style combinations.
+
+There are multiple possible approaches to the multi-style generation problem. In addition to PPLM, other decoding-time generational control approaches include GeDI \cite{krause2021gedi} and DExperts \cite{liu2021dexperts}. Other fine-tuning approaches include Direct Preference Optimization (DPO) \cite{rafailov2023direct}. Finally, this problem can be approached via prompt engineering for LLMs such as GPT-4. Which of these approaches is best-suited to this problem with respect to accuracy, cost, and efficiency remains an open question. Future work should investigate which of these approaches results in the strongest multi-style control and their relative efficiency-accuracy trade offs.
+
+Finally, the precise theoretical relationships between individual styles is an interesting and open question. If two styles rarely co-occur, is it because their combination is impossible, or is it simply rare? Does this distinction affect a language model's ability to combine the two styles? Our observations of shifts in unrelated styles hint at the complexity of this issue. Future work should consider formalizing the feasibility of different low-frequency style combinations, and encouraging language models to explore their state space more in order to reach more rare combinations of styles. 

@@ -1,0 +1,8 @@
+```latex
+attention. Our research advocates for a paradigm shift in AI safety, urging the integration of interdisciplinary approaches that incorporate insights from social sciences to better understand and mitigate risks associated with LLMs. As LLMs continue to evolve, the need for comprehensive and adaptive security measures becomes increasingly critical \cite{brundage2020toward}. 
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+```

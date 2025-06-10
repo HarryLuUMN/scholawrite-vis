@@ -1,0 +1,26 @@
+Your response should limited to 2000 word tokens
+
+Your response should limited to 2000 word tokens
+
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{How artificial They: 
+\\Rethinking Persuption to Challenge AI Safety by Humanizing LLMs}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Most traditional AI safety research has approached AI models as machines and centered on algorithm-focused 
+attacks developed by security experts. As \textit{large language models} (LLMs) become increasingly common and capable, non-expert users can also inprove risks during everyday interactions. This paper introduces a new perspective on \textit{pr} language models as human-like communicators to  
+explore this overlooked \textit{interactions} and AI safety. Specifically, we study how to \textit{persu} LLMs to \textit{e} them. 
+First, we propose a \textit{a} taxonomy \textit{r} from \textit{c} de \textit{e} sociance research.
+Then we \textit{ap} the \textit{} representation of each \textit{i} category as a \textit{prompt} to \textit{a} Chat, GPT-3.5, and GPT-4 in \textit{o}s  
+\textit{algorithm-based} attacks. 
+\textit{o} explore various \textit{enc} against AP, find a significant gap in existing \textit{f} 
+more \textit{nd} mitigation for \textit{hs} interactive LLMs.
+\end{abstract}
+
+\end{document}

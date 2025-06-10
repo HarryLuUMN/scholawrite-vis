@@ -1,0 +1,35 @@
+Your response should be in limited to 2000 word tokens
+
+Your response should be to 2000 word tokens
+
+Your response should be to 2000 word tokens
+
+Your response should be in 2000 word tokens
+
+Your response should be 2000 word tokens
+
+Your response should be 2000 word tokens
+
+Your response should be in limited to 2000 word tokens
+
+Your response should be limited limited to 
+
+Your response should be limit to 2000 word tokens
+
+Your response should be limited limited to 
+
+Your response should be in limited to 2000 word tokens
+
+\end{tabular}
+
+\caption{Summary of the number of generations and their tokens for each generation.}
+\label{tab:shortest_path_len}
+\end{table}
+
+\anonymous{Not sure about the "shortest" part anymore?}
+
+\anonymous{I think it's better to rephrase the whole claim to something like "For text-attributed network motifs, the mean and standard deviation of formality scores is around 0.3 and 0.8, respectively, while the mean and standard deviation of errors is around 0.25 and 0.35, respectively.  In contrast, for text-only network motifs, the formality score is lower, and the errors are more frequent.  I just think this claim is a little too strong.  Can we replace the claim with something a little more specific?}
+
+\anonymous{This is an interesting finding, but I'm not sure if it directly applies to all kinds of motif networks.  Can you say that this is one benefit of using motif network?}
+
+\anonymous{Add a finding in caption too.  The mean and standard deviation of differences between original and paraphrased texts is about 0.25 and 0.35, respectively.  This indicates that the sentence-level paraphrasing results in higher variability in distribution of lexical and syntactic attributes.}

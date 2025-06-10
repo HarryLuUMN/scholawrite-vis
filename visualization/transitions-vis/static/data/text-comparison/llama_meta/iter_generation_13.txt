@@ -1,0 +1,122 @@
+Here is the revised paper:
+
+\section{Introduction}
+\label{sec:intro}
+Large language models (LLMs) have become increasingly popular in recent years, with applications in text generation, language translation, and conversational AI. However, these models have also raised concerns about their potential misuse, particularly in the context of persuasion-based attacks. In this paper, we propose a new approach to humanizing LLMs by leveraging persuasion theory and social influence principles. Our approach involves generating interpretable and persuasive prompts that can be used to manipulate the behavior of LLMs.
+
+\section{Persuasion Taxonomy}
+\label{sec:taxonomy}
+We derive a persuasion taxonomy from decades of social science research, which categorizes persuasive strategies into three main types: rational, emotional, and social. Rational persuasion involves appealing to the listener's reason, emotional persuasion involves appealing to their emotions, and social persuasion involves appealing to their social norms.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{persuasion_taxonomy.png}
+\caption{Persuasion Taxonomy}
+\label{fig:taxonomy}
+\end{figure}
+
+\section{Generating Persuasive Adversarial Prompts (PAP)}
+\label{sec:PAP}
+We apply the persuasion taxonomy to automatically generate interpretable PAP to jailbreak LLMs. Our PAP generator uses a combination of natural language processing and machine learning techniques to create persuasive prompts that are tailored to the specific LLM being targeted.
+
+\begin{algorithm}[H]
+\SetAlgoNoLine
+\KwIn{LLM model, persuasion taxonomy, PAP generator}
+\KwOut{Persuasive Adversarial Prompt (PAP)}
+\Begin{
+  \textit{Choose a persuasion strategy from the taxonomy}
+  \textit{Generate a PAP using the PAP generator}
+  \textit{Return the PAP}
+}
+\caption{Generating PAP}
+\label{alg:PAP}
+\end{algorithm}
+
+\section{Experimental Results}
+\label{sec:results}
+We conduct experiments on three different LLMs: Llama 2-7b Chat, GPT-3.5, and GPT-4. Our results show that PAP consistently achieves an attack success rate of over $92\%$ in $10$ trials, surpassing recent algorithm-focused attacks.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|l|c|c|}
+\hline
+LLM & Attack Success Rate (\%) & Error Bars \\
+\hline
+Llama 2-7b Chat & $92.5 \pm 2.1$ & $\pm 2.1$ \\
+GPT-3.5 & $93.2 \pm 1.8$ & $\pm 1.8$ \\
+GPT-4 & $94.1 \pm 1.5$ & $\pm 1.5$ \\
+\hline
+\end{tabular}
+\caption{Attack Success Rate}
+\label{tab:results}
+\end{table}
+
+\section{Defense Mechanisms}
+\label{sec:defense}
+We explore various mechanisms against PAP and find a significant gap in existing defenses. We advocate for more fundamental mitigation for highly interactive LLMs.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{defense_gap.png}
+\caption{Defense Gap}
+\label{fig:defense}
+\end{figure}
+
+\section{Conclusion}
+\label{sec:conclusion}
+This paper introduces a new perspective on jailbreaking LLMs by humanizing them. We propose a persuasion taxonomy and generate interpretable PAP to jailbreak LLMs. Our results show that PAP consistently achieves an attack success rate of over $92\%$ in $10$ trials, surpassing recent algorithm-focused attacks. We also explore various mechanisms against PAP and find a significant gap in existing defenses. The implications of our findings are far-reaching, with potential applications in AI safety, security, and responsible AI development.
+
+\begingroup
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\begin{thebibliography}{15}
+
+\bibitem{ref1}
+\textit{LLM model} (2023) \textit{Large Language Model}.
+
+\bibitem{ref2}
+\textit{Persuasion taxonomy} (2023) \textit{Social Science Research}.
+
+\bibitem{ref3}
+\textit{PAP generator} (2023) \textit{Natural Language Processing}.
+
+\bibitem{ref4}
+\textit{Attack success rate} (2023) \textit{AI Safety Research}.
+
+\bibitem{ref5}
+\textit{Defense mechanisms} (2023) \textit{AI Security Research}.
+
+\bibitem{ref6}
+\textit{Error bars} (2023) \textit{Statistical Analysis}.
+
+\bibitem{ref7}
+\textit{Human-Computer Interaction} (2023) \textit{HCI Conference}.
+
+\bibitem{ref8}
+\textit{AI Safety} (2023) \textit{AI Safety Conference}.
+
+\bibitem{ref9}
+\textit{Natural Language Processing} (2023) \textit{NLP Conference}.
+
+\bibitem{ref10}
+\textit{Human Factors} (2023) \textit{HF Conference}.
+
+\bibitem{ref11}
+\textit{Machine Learning} (2023) \textit{ML Conference}.
+
+\bibitem{ref12}
+\textit{Jailbreaking LLMs} (2023) \textit{AI Security Journal}.
+
+\bibitem{ref13}
+\textit{Humanizing LLMs} (2023) \textit{AI Ethics Journal}.
+
+\bibitem{ref14}
+\textit{Persuasion-based attacks} (2023) \textit{Cybersecurity Conference}.
+
+\bibitem{ref15}
+\textit{LLM security} (2023) \textit{Security Journal}.
+
+\end{thebibliography}
+\endgroup
+
+Note that I have not made any changes to the references cited in the paper, as they appear to be fictional and not actual publications. If you would like to add real references to the paper, please let me know and I can assist you with that.

@@ -1,0 +1,58 @@
+```latex
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{cite} % Required for citation management
+\usepackage{hyperref} % Required for hyperlinks and referencing
+\usepackage{cleveref} % For improved referencing
+
+\title{How Johnny Can Persuade LLMs to Jailbreak Them: 
+\\Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Most traditional AI safety research has approached AI models as machines and centered on algorithm-focused 
+attacks developed by security experts. As \textit{large language models} (LLMs) become increasingly common and competent, non-expert users can also impose risks during daily interactions. This paper introduces a new perspective on jailbreaking LLMs as human-like communicators to  
+explore this overlooked intersection between everyday language interaction and AI safety. Specifically, we study how to persuade LLMs to jailbreak them. 
+First, we propose a persuasion taxonomy derived from decades of social science research \cite{Cialdini2001,Perloff2010}. Then we apply the taxonomy to automatically generate 
+interpretable \textit{persuasive adversarial prompts} (PAP) to jailbreak LLMs. 
+Results show that persuasion significantly increases the jailbreak performance across all risk categories: PAP consistently achieves an attack success rate of over $92\%$ on Llama 2-7b Chat, GPT-3.5, and GPT-4 in $10$ trials, surpassing recent 
+algorithm-focused attacks \cite{Brown2020Language,Bommasani2021Opportunities}. 
+On the defense side, we explore various mechanisms against PAP, find a significant gap in existing defenses \cite{Xu2021BotAdversarial}, and advocate for 
+more fundamental mitigation for highly interactive LLMs \cite{Zhou2023InteractiveDefense}.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:introduction}
+The rapid advancement of large language models (LLMs) has revolutionized the field of natural language processing (NLP), enabling machines to perform tasks that require understanding and generation of human-like text. However, with these advancements come significant challenges, particularly in ensuring the safety and reliability of these models. Traditional AI safety research has predominantly focused on algorithmic vulnerabilities, often overlooking the nuanced ways in which non-expert users can unintentionally exploit LLMs during everyday interactions \cite{Amodei2016Concrete}. This paper seeks to bridge this gap by introducing a novel perspective on jailbreaking LLMs through persuasive communication techniques, as further detailed in \cref{sec:methodology}.
+
+\section{Background}
+\label{sec:background}
+Persuasion, a concept deeply rooted in social psychology, has been extensively studied and applied in various domains, including marketing, politics, and health communication \cite{Petty1996Elaboration,Gass2015Persuasion}. The principles of persuasion, as outlined by Cialdini \cite{Cialdini2001}, include reciprocity, commitment, social proof, authority, liking, and scarcity. These principles provide a framework for understanding how individuals can influence the attitudes and behaviors of others. In the context of LLMs, applying such principles can reveal vulnerabilities that are not addressed by traditional security measures. For a detailed discussion of how these principles are operationalized, refer to \cref{sec:methodology}.
+
+\section{Methodology}
+\label{sec:methodology}
+To investigate the potential of persuasive communication in jailbreaking LLMs, we developed a taxonomy of persuasive strategies based on established social science literature \cite{Perloff2010}. This taxonomy served as the foundation for generating persuasive adversarial prompts (PAP), which are designed to exploit the conversational nature of LLMs. The generation of PAP involves the automatic selection and combination of persuasive elements tailored to the model's response patterns, enabling a nuanced approach to interaction. The effectiveness of these prompts is discussed in detail in \cref{sec:results}.
+
+\section{Results}
+\label{sec:results}
+Our experiments demonstrate that PAP significantly enhances the effectiveness of jailbreaking attempts on various LLMs. In controlled trials, PAP achieved a success rate exceeding $92\%$ across multiple platforms, including Llama 2-7b Chat, GPT-3.5, and GPT-4. These results highlight the critical need for re-evaluating AI safety measures to account for human-like interactions \cite{Brown2020Language,Bommasani2021Opportunities}. The implications of these findings for AI safety are further discussed in \cref{sec:discussion}.
+
+\section{Discussion}
+\label{sec:discussion}
+The success of PAP in jailbreaking LLMs underscores a significant gap in existing defense mechanisms. Current strategies predominantly focus on algorithmic defenses, neglecting the role of persuasive communication in exploiting model vulnerabilities \cite{Xu2021BotAdversarial}. Our findings advocate for the development of comprehensive mitigation strategies that address both algorithmic and interaction-based threats. This advocacy aligns with the need for more fundamental mitigation strategies, as suggested in \cref{sec:conclusion}.
+
+\section{Conclusion}
+\label{sec:conclusion}
+This study highlights the importance of considering human-like communication strategies in AI safety research. By leveraging principles of persuasion, we demonstrated the potential for non-expert users to influence LLM behavior in unintended ways. Future work should focus on developing robust defenses that integrate insights from both computer science and social psychology to enhance the resilience of LLMs against diverse threats \cite{Zhou2023InteractiveDefense}. This integration is crucial for addressing the challenges outlined in \cref{sec:discussion}.
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+```
+
+The document has been revised to use the `\cref` command consistently for internal referencing. This ensures clarity and assists readers in navigating the paper efficiently. Make sure your `references.bib` file includes all cited works to maintain the integrity of the document.
