@@ -1,0 +1,6642 @@
+iteration,label
+0,Text Production
+1,Text Production
+2,Text Production
+3,Text Production
+4,Text Production
+5,Text Production
+6,Text Production
+7,Text Production
+8,Text Production
+9,Text Production
+10,Text Production
+11,Text Production
+12,Text Production
+13,Text Production
+14,Text Production
+15,Text Production
+16,Text Production
+17,Text Production
+18,Text Production
+19,Text Production
+20,Text Production
+21,Text Production
+22,Text Production
+23,Text Production
+24,Text Production
+25,Text Production
+26,Text Production
+27,Text Production
+28,Text Production
+29,Text Production
+30,Text Production
+31,Text Production
+32,Text Production
+33,Text Production
+34,Text Production
+35,Text Production
+36,Text Production
+37,Text Production
+38,Text Production
+39,Text Production
+40,Text Production
+41,Text Production
+42,Text Production
+43,Cross-reference
+44,Coherence
+45,Text Production
+46,Text Production
+47,Text Production
+48,Text Production
+49,Text Production
+50,Text Production
+51,Text Production
+52,Text Production
+53,Text Production
+54,Text Production
+55,Text Production
+56,Text Production
+57,Text Production
+58,Text Production
+59,Text Production
+60,Text Production
+61,Text Production
+62,Text Production
+63,Text Production
+64,Text Production
+65,Text Production
+66,Text Production
+67,Text Production
+68,Text Production
+69,Citation Integration
+70,Citation Integration
+71,Text Production
+72,Text Production
+73,Text Production
+74,Text Production
+75,Text Production
+76,Text Production
+77,Text Production
+78,Text Production
+79,Text Production
+80,Text Production
+81,Text Production
+82,Text Production
+83,Text Production
+84,Text Production
+85,Text Production
+86,Text Production
+87,Text Production
+88,Text Production
+89,Text Production
+90,Text Production
+91,Text Production
+92,Text Production
+93,Text Production
+94,Text Production
+95,Text Production
+96,Text Production
+97,Text Production
+98,Structural
+99,Structural
+100,Text Production
+101,Text Production
+102,Text Production
+103,Text Production
+104,Text Production
+105,Text Production
+106,Text Production
+107,Text Production
+108,Text Production
+109,Text Production
+110,Text Production
+111,Text Production
+112,Text Production
+113,Text Production
+114,Text Production
+115,Coherence
+116,Coherence
+117,Structural
+118,Structural
+119,Text Production
+120,Text Production
+121,Text Production
+122,Text Production
+123,Text Production
+124,Text Production
+125,Text Production
+126,Text Production
+127,Text Production
+128,Text Production
+129,Text Production
+130,Text Production
+131,Text Production
+132,Text Production
+133,Text Production
+134,Text Production
+135,Text Production
+136,Text Production
+137,Text Production
+138,Text Production
+139,Text Production
+140,Text Production
+141,Text Production
+142,Text Production
+143,Text Production
+144,Text Production
+145,Text Production
+146,Text Production
+147,Text Production
+148,Text Production
+149,Text Production
+150,Text Production
+151,Text Production
+152,Text Production
+153,Text Production
+154,Fluency
+155,Fluency
+156,Fluency
+157,Text Production
+158,Text Production
+159,Citation Integration
+160,Text Production
+161,Text Production
+162,Text Production
+163,Text Production
+164,Citation Integration
+165,Citation Integration
+166,Citation Integration
+167,Citation Integration
+168,Citation Integration
+169,Fluency
+170,Linguistic Style
+171,Linguistic Style
+172,Fluency
+173,Visual Formatting
+174,Coherence
+175,Coherence
+176,Coherence
+177,Coherence
+178,Coherence
+179,Linguistic Style
+180,Text Production
+181,Text Production
+182,Text Production
+183,Text Production
+184,Text Production
+185,Text Production
+186,Text Production
+187,Text Production
+188,Text Production
+189,Text Production
+190,Text Production
+191,Text Production
+192,Text Production
+193,Text Production
+194,Text Production
+195,Text Production
+196,Text Production
+197,Text Production
+198,Text Production
+199,Text Production
+200,Text Production
+201,Text Production
+202,Text Production
+203,Text Production
+204,Text Production
+205,Text Production
+206,Text Production
+207,Text Production
+208,Text Production
+209,Text Production
+210,Text Production
+211,Text Production
+212,Text Production
+213,Macro Insertion
+214,Macro Insertion
+215,Macro Insertion
+216,Macro Insertion
+217,Macro Insertion
+218,Macro Insertion
+219,Text Production
+220,Text Production
+221,Text Production
+222,Text Production
+223,Text Production
+224,Text Production
+225,Text Production
+226,Text Production
+227,Text Production
+228,Text Production
+229,Text Production
+230,Text Production
+231,Text Production
+232,Text Production
+233,Text Production
+234,Text Production
+235,Text Production
+236,Text Production
+237,Text Production
+238,Text Production
+239,Text Production
+240,Text Production
+241,Text Production
+242,Text Production
+243,Object Insertion
+244,Object Insertion
+245,Object Insertion
+246,Object Insertion
+247,Object Insertion
+248,Object Insertion
+249,Object Insertion
+250,Object Insertion
+251,Object Insertion
+252,Object Insertion
+253,Object Insertion
+254,Object Insertion
+255,Macro Insertion
+256,Macro Insertion
+257,Macro Insertion
+258,Idea Generation
+259,Idea Generation
+260,Text Production
+261,Text Production
+262,Text Production
+263,Text Production
+264,Text Production
+265,Text Production
+266,Text Production
+267,Text Production
+268,Text Production
+269,Text Production
+270,Text Production
+271,Text Production
+272,Text Production
+273,Text Production
+274,Text Production
+275,Text Production
+276,Text Production
+277,Text Production
+278,Text Production
+279,Text Production
+280,Text Production
+281,Text Production
+282,Text Production
+283,Text Production
+284,Text Production
+285,Text Production
+286,Text Production
+287,Text Production
+288,Text Production
+289,Text Production
+290,Text Production
+291,Text Production
+292,Text Production
+293,Text Production
+294,Text Production
+295,Text Production
+296,Text Production
+297,Text Production
+298,Text Production
+299,Citation Integration
+300,Citation Integration
+301,Citation Integration
+302,Citation Integration
+303,Text Production
+304,Fluency
+305,Fluency
+306,Fluency
+307,Text Production
+308,Text Production
+309,Text Production
+310,Text Production
+311,Text Production
+312,Text Production
+313,Text Production
+314,Text Production
+315,Text Production
+316,Text Production
+317,Text Production
+318,Text Production
+319,Text Production
+320,Text Production
+321,Text Production
+322,Text Production
+323,Text Production
+324,Text Production
+325,Text Production
+326,Clarity
+327,Clarity
+328,Clarity
+329,Citation Integration
+330,Citation Integration
+331,Text Production
+332,Text Production
+333,Text Production
+334,Text Production
+335,Text Production
+336,Text Production
+337,Text Production
+338,Text Production
+339,Text Production
+340,Text Production
+341,Text Production
+342,Text Production
+343,Text Production
+344,Text Production
+345,Text Production
+346,Text Production
+347,Text Production
+348,Text Production
+349,Text Production
+350,Text Production
+351,Text Production
+352,Text Production
+353,Text Production
+354,Text Production
+355,Text Production
+356,Text Production
+357,Text Production
+358,Text Production
+359,Text Production
+360,Citation Integration
+361,Text Production
+362,Text Production
+363,Text Production
+364,Text Production
+365,Text Production
+366,Text Production
+367,Text Production
+368,Text Production
+369,Text Production
+370,Text Production
+371,Text Production
+372,Text Production
+373,Text Production
+374,Text Production
+375,Text Production
+376,Text Production
+377,Text Production
+378,Text Production
+379,Text Production
+380,Text Production
+381,Text Production
+382,Text Production
+383,Text Production
+384,Text Production
+385,Text Production
+386,Text Production
+387,Text Production
+388,Text Production
+389,Text Production
+390,Text Production
+391,Text Production
+392,Text Production
+393,Text Production
+394,Text Production
+395,Text Production
+396,Text Production
+397,Text Production
+398,Text Production
+399,Text Production
+400,Text Production
+401,Text Production
+402,Text Production
+403,Text Production
+404,Text Production
+405,Coherence
+406,Text Production
+407,Text Production
+408,Text Production
+409,Text Production
+410,Text Production
+411,Text Production
+412,Text Production
+413,Text Production
+414,Text Production
+415,Text Production
+416,Text Production
+417,Text Production
+418,Text Production
+419,Text Production
+420,Text Production
+421,Text Production
+422,Text Production
+423,Text Production
+424,Text Production
+425,Text Production
+426,Text Production
+427,Text Production
+428,Text Production
+429,Citation Integration
+430,Visual Formatting
+431,Citation Integration
+432,Text Production
+433,Text Production
+434,Text Production
+435,Text Production
+436,Text Production
+437,Text Production
+438,Text Production
+439,Text Production
+440,Text Production
+441,Text Production
+442,Text Production
+443,Text Production
+444,Text Production
+445,Text Production
+446,Text Production
+447,Text Production
+448,Text Production
+449,Text Production
+450,Text Production
+451,Text Production
+452,Text Production
+453,Text Production
+454,Text Production
+455,Text Production
+456,Text Production
+457,Text Production
+458,Text Production
+459,Text Production
+460,Text Production
+461,Citation Integration
+462,Citation Integration
+463,Text Production
+464,Text Production
+465,Text Production
+466,Text Production
+467,Text Production
+468,Text Production
+469,Text Production
+470,Text Production
+471,Text Production
+472,Text Production
+473,Text Production
+474,Text Production
+475,Text Production
+476,Text Production
+477,Text Production
+478,Text Production
+479,Text Production
+480,Text Production
+481,Text Production
+482,Text Production
+483,Text Production
+484,Text Production
+485,Citation Integration
+486,Text Production
+487,Text Production
+488,Text Production
+489,Text Production
+490,Text Production
+491,Text Production
+492,Text Production
+493,Text Production
+494,Text Production
+495,Text Production
+496,Text Production
+497,Text Production
+498,Text Production
+499,Text Production
+500,Text Production
+501,Text Production
+502,Text Production
+503,Text Production
+504,Text Production
+505,Text Production
+506,Citation Integration
+507,Citation Integration
+508,Citation Integration
+509,Citation Integration
+510,Citation Integration
+511,Structural
+512,Structural
+513,Text Production
+514,Text Production
+515,Text Production
+516,Text Production
+517,Text Production
+518,Text Production
+519,Text Production
+520,Text Production
+521,Text Production
+522,Text Production
+523,Text Production
+524,Text Production
+525,Text Production
+526,Text Production
+527,Text Production
+528,Text Production
+529,Text Production
+530,Text Production
+531,Text Production
+532,Text Production
+533,Text Production
+534,Coherence
+535,Coherence
+536,Coherence
+537,Coherence
+538,Citation Integration
+539,Citation Integration
+540,Text Production
+541,Text Production
+542,Text Production
+543,Text Production
+544,Text Production
+545,Text Production
+546,Text Production
+547,Text Production
+548,Text Production
+549,Text Production
+550,Text Production
+551,Text Production
+552,Text Production
+553,Text Production
+554,Text Production
+555,Text Production
+556,Text Production
+557,Text Production
+558,Text Production
+559,Text Production
+560,Text Production
+561,Text Production
+562,Text Production
+563,Text Production
+564,Text Production
+565,Text Production
+566,Text Production
+567,Text Production
+568,Text Production
+569,Text Production
+570,Text Production
+571,Text Production
+572,Text Production
+573,Text Production
+574,Text Production
+575,Text Production
+576,Text Production
+577,Text Production
+578,Text Production
+579,Text Production
+580,Text Production
+581,Text Production
+582,Citation Integration
+583,Structural
+584,Structural
+585,Text Production
+586,Text Production
+587,Text Production
+588,Text Production
+589,Text Production
+590,Text Production
+591,Text Production
+592,Text Production
+593,Coherence
+594,Fluency
+595,Fluency
+596,Fluency
+597,Clarity
+598,Clarity
+599,Clarity
+600,Clarity
+601,Clarity
+602,Clarity
+603,Fluency
+604,Text Production
+605,Text Production
+606,Text Production
+607,Text Production
+608,Text Production
+609,Text Production
+610,Text Production
+611,Text Production
+612,Text Production
+613,Text Production
+614,Citation Integration
+615,Text Production
+616,Text Production
+617,Text Production
+618,Text Production
+619,Text Production
+620,Text Production
+621,Text Production
+622,Text Production
+623,Text Production
+624,Text Production
+625,Text Production
+626,Text Production
+627,Text Production
+628,Text Production
+629,Text Production
+630,Text Production
+631,Text Production
+632,Text Production
+633,Text Production
+634,Text Production
+635,Text Production
+636,Text Production
+637,Text Production
+638,Text Production
+639,Text Production
+640,Text Production
+641,Text Production
+642,Text Production
+643,Text Production
+644,Text Production
+645,Text Production
+646,Text Production
+647,Text Production
+648,Citation Integration
+649,Citation Integration
+650,Text Production
+651,Text Production
+652,Text Production
+653,Text Production
+654,Text Production
+655,Text Production
+656,Text Production
+657,Text Production
+658,Text Production
+659,Text Production
+660,Text Production
+661,Text Production
+662,Text Production
+663,Text Production
+664,Text Production
+665,Text Production
+666,Structural
+667,Structural
+668,Structural
+669,Structural
+670,Text Production
+671,Text Production
+672,Text Production
+673,Text Production
+674,Text Production
+675,Text Production
+676,Text Production
+677,Text Production
+678,Text Production
+679,Text Production
+680,Text Production
+681,Text Production
+682,Text Production
+683,Text Production
+684,Text Production
+685,Text Production
+686,Text Production
+687,Text Production
+688,Text Production
+689,Text Production
+690,Text Production
+691,Text Production
+692,Text Production
+693,Text Production
+694,Coherence
+695,Coherence
+696,Text Production
+697,Text Production
+698,Text Production
+699,Text Production
+700,Text Production
+701,Text Production
+702,Text Production
+703,Text Production
+704,Text Production
+705,Text Production
+706,Text Production
+707,Text Production
+708,Text Production
+709,Text Production
+710,Text Production
+711,Text Production
+712,Text Production
+713,Text Production
+714,Text Production
+715,Text Production
+716,Text Production
+717,Text Production
+718,Text Production
+719,Text Production
+720,Text Production
+721,Text Production
+722,Text Production
+723,Text Production
+724,Text Production
+725,Text Production
+726,Text Production
+727,Text Production
+728,Text Production
+729,Text Production
+730,Text Production
+731,Text Production
+732,Text Production
+733,Text Production
+734,Coherence
+735,Citation Integration
+736,Citation Integration
+737,Text Production
+738,Text Production
+739,Text Production
+740,Text Production
+741,Text Production
+742,Text Production
+743,Text Production
+744,Text Production
+745,Text Production
+746,Text Production
+747,Text Production
+748,Text Production
+749,Text Production
+750,Text Production
+751,Text Production
+752,Text Production
+753,Text Production
+754,Text Production
+755,Text Production
+756,Text Production
+757,Text Production
+758,Text Production
+759,Text Production
+760,Text Production
+761,Text Production
+762,Text Production
+763,Text Production
+764,Text Production
+765,Text Production
+766,Structural
+767,Structural
+768,Idea Generation
+769,Structural
+770,Structural
+771,Structural
+772,Text Production
+773,Text Production
+774,Text Production
+775,Text Production
+776,Text Production
+777,Text Production
+778,Text Production
+779,Text Production
+780,Text Production
+781,Text Production
+782,Text Production
+783,Text Production
+784,Text Production
+785,Text Production
+786,Text Production
+787,Text Production
+788,Text Production
+789,Text Production
+790,Text Production
+791,Text Production
+792,Text Production
+793,Text Production
+794,Text Production
+795,Text Production
+796,Text Production
+797,Text Production
+798,Text Production
+799,Text Production
+800,Text Production
+801,Text Production
+802,Text Production
+803,Text Production
+804,Text Production
+805,Text Production
+806,Text Production
+807,Text Production
+808,Text Production
+809,Text Production
+810,Text Production
+811,Text Production
+812,Text Production
+813,Text Production
+814,Text Production
+815,Text Production
+816,Text Production
+817,Text Production
+818,Text Production
+819,Text Production
+820,Text Production
+821,Text Production
+822,Visual Formatting
+823,Visual Formatting
+824,Visual Formatting
+825,Visual Formatting
+826,Visual Formatting
+827,Visual Formatting
+828,Visual Formatting
+829,Visual Formatting
+830,Idea Generation
+831,Idea Generation
+832,Text Production
+833,Text Production
+834,Text Production
+835,Text Production
+836,Text Production
+837,Text Production
+838,Text Production
+839,Text Production
+840,Text Production
+841,Text Production
+842,Text Production
+843,Text Production
+844,Text Production
+845,Idea Generation
+846,Idea Generation
+847,Idea Generation
+848,Idea Generation
+849,Idea Generation
+850,Idea Generation
+851,Idea Generation
+852,Idea Generation
+853,Idea Generation
+854,Idea Generation
+855,Idea Generation
+856,Idea Generation
+857,Idea Generation
+858,Idea Generation
+859,Idea Generation
+860,Idea Generation
+861,Idea Generation
+862,Idea Generation
+863,Idea Generation
+864,Idea Generation
+865,Idea Generation
+866,Idea Generation
+867,Idea Generation
+868,Clarity
+869,Text Production
+870,Text Production
+871,Text Production
+872,Text Production
+873,Text Production
+874,Text Production
+875,Text Production
+876,Text Production
+877,Text Production
+878,Text Production
+879,Text Production
+880,Text Production
+881,Text Production
+882,Text Production
+883,Text Production
+884,Text Production
+885,Text Production
+886,Text Production
+887,Text Production
+888,Text Production
+889,Text Production
+890,Citation Integration
+891,Citation Integration
+892,Text Production
+893,Text Production
+894,Text Production
+895,Text Production
+896,Text Production
+897,Text Production
+898,Text Production
+899,Text Production
+900,Text Production
+901,Text Production
+902,Text Production
+903,Text Production
+904,Text Production
+905,Text Production
+906,Text Production
+907,Text Production
+908,Text Production
+909,Text Production
+910,Text Production
+911,Text Production
+912,Text Production
+913,Text Production
+914,Coherence
+915,Text Production
+916,Text Production
+917,Text Production
+918,Text Production
+919,Text Production
+920,Citation Integration
+921,Text Production
+922,Text Production
+923,Text Production
+924,Text Production
+925,Text Production
+926,Text Production
+927,Text Production
+928,Text Production
+929,Text Production
+930,Text Production
+931,Text Production
+932,Text Production
+933,Text Production
+934,Text Production
+935,Text Production
+936,Text Production
+937,Text Production
+938,Text Production
+939,Text Production
+940,Text Production
+941,Text Production
+942,Text Production
+943,Text Production
+944,Text Production
+945,Text Production
+946,Text Production
+947,Text Production
+948,Text Production
+949,Text Production
+950,Text Production
+951,Text Production
+952,Text Production
+953,Text Production
+954,Citation Integration
+955,Text Production
+956,Text Production
+957,Text Production
+958,Text Production
+959,Text Production
+960,Text Production
+961,Text Production
+962,Text Production
+963,Text Production
+964,Text Production
+965,Text Production
+966,Text Production
+967,Text Production
+968,Text Production
+969,Text Production
+970,Text Production
+971,Text Production
+972,Text Production
+973,Text Production
+974,Text Production
+975,Text Production
+976,Text Production
+977,Text Production
+978,Text Production
+979,Text Production
+980,Text Production
+981,Text Production
+982,Text Production
+983,Text Production
+984,Text Production
+985,Text Production
+986,Text Production
+987,Text Production
+988,Text Production
+989,Text Production
+990,Text Production
+991,Text Production
+992,Text Production
+993,Text Production
+994,Text Production
+995,Text Production
+996,Text Production
+997,Text Production
+998,Text Production
+999,Text Production
+1000,Text Production
+1001,Text Production
+1002,Text Production
+1003,Text Production
+1004,Text Production
+1005,Text Production
+1006,Text Production
+1007,Text Production
+1008,Text Production
+1009,Text Production
+1010,Text Production
+1011,Text Production
+1012,Text Production
+1013,Text Production
+1014,Text Production
+1015,Text Production
+1016,Text Production
+1017,Text Production
+1018,Text Production
+1019,Text Production
+1020,Text Production
+1021,Text Production
+1022,Text Production
+1023,Citation Integration
+1024,Text Production
+1025,Text Production
+1026,Text Production
+1027,Text Production
+1028,Text Production
+1029,Text Production
+1030,Text Production
+1031,Coherence
+1032,Coherence
+1033,Coherence
+1034,Structural
+1035,Structural
+1036,Coherence
+1037,Structural
+1038,Coherence
+1039,Coherence
+1040,Coherence
+1041,Coherence
+1042,Visual Formatting
+1043,Visual Formatting
+1044,Section Planning
+1045,Section Planning
+1046,Section Planning
+1047,Section Planning
+1048,Section Planning
+1049,Section Planning
+1050,Section Planning
+1051,Section Planning
+1052,Section Planning
+1053,Section Planning
+1054,Section Planning
+1055,Macro Insertion
+1056,Macro Insertion
+1057,Macro Insertion
+1058,Macro Insertion
+1059,Macro Insertion
+1060,Macro Insertion
+1061,Macro Insertion
+1062,Macro Insertion
+1063,Macro Insertion
+1064,Macro Insertion
+1065,Macro Insertion
+1066,Macro Insertion
+1067,Object Insertion
+1068,Text Production
+1069,Text Production
+1070,Text Production
+1071,Text Production
+1072,Text Production
+1073,Text Production
+1074,Text Production
+1075,Text Production
+1076,Text Production
+1077,Text Production
+1078,Text Production
+1079,Text Production
+1080,Text Production
+1081,Text Production
+1082,Text Production
+1083,Text Production
+1084,Text Production
+1085,Text Production
+1086,Text Production
+1087,Text Production
+1088,Text Production
+1089,Text Production
+1090,Text Production
+1091,Text Production
+1092,Text Production
+1093,Text Production
+1094,Linguistic Style
+1095,Text Production
+1096,Text Production
+1097,Text Production
+1098,Text Production
+1099,Text Production
+1100,Text Production
+1101,Text Production
+1102,Text Production
+1103,Text Production
+1104,Text Production
+1105,Text Production
+1106,Text Production
+1107,Text Production
+1108,Text Production
+1109,Text Production
+1110,Text Production
+1111,Linguistic Style
+1112,Linguistic Style
+1113,Linguistic Style
+1114,Linguistic Style
+1115,Object Insertion
+1116,Text Production
+1117,Text Production
+1118,Text Production
+1119,Text Production
+1120,Text Production
+1121,Text Production
+1122,Text Production
+1123,Text Production
+1124,Text Production
+1125,Text Production
+1126,Text Production
+1127,Text Production
+1128,Text Production
+1129,Text Production
+1130,Text Production
+1131,Object Insertion
+1132,Text Production
+1133,Text Production
+1134,Text Production
+1135,Text Production
+1136,Text Production
+1137,Text Production
+1138,Text Production
+1139,Text Production
+1140,Text Production
+1141,Text Production
+1142,Text Production
+1143,Text Production
+1144,Text Production
+1145,Text Production
+1146,Text Production
+1147,Text Production
+1148,Text Production
+1149,Text Production
+1150,Text Production
+1151,Text Production
+1152,Text Production
+1153,Text Production
+1154,Text Production
+1155,Text Production
+1156,Text Production
+1157,Text Production
+1158,Text Production
+1159,Text Production
+1160,Text Production
+1161,Text Production
+1162,Text Production
+1163,Text Production
+1164,Text Production
+1165,Text Production
+1166,Text Production
+1167,Text Production
+1168,Text Production
+1169,Text Production
+1170,Text Production
+1171,Text Production
+1172,Text Production
+1173,Text Production
+1174,Text Production
+1175,Text Production
+1176,Text Production
+1177,Text Production
+1178,Text Production
+1179,Text Production
+1180,Text Production
+1181,Text Production
+1182,Text Production
+1183,Text Production
+1184,Text Production
+1185,Text Production
+1186,Text Production
+1187,Text Production
+1188,Text Production
+1189,Text Production
+1190,Text Production
+1191,Text Production
+1192,Text Production
+1193,Text Production
+1194,Text Production
+1195,Text Production
+1196,Text Production
+1197,Text Production
+1198,Text Production
+1199,Text Production
+1200,Text Production
+1201,Text Production
+1202,Text Production
+1203,Text Production
+1204,Text Production
+1205,Text Production
+1206,Text Production
+1207,Text Production
+1208,Text Production
+1209,Text Production
+1210,Text Production
+1211,Text Production
+1212,Text Production
+1213,Text Production
+1214,Text Production
+1215,Text Production
+1216,Text Production
+1217,Text Production
+1218,Text Production
+1219,Text Production
+1220,Text Production
+1221,Text Production
+1222,Text Production
+1223,Text Production
+1224,Text Production
+1225,Text Production
+1226,Text Production
+1227,Text Production
+1228,Text Production
+1229,Text Production
+1230,Text Production
+1231,Text Production
+1232,Text Production
+1233,Text Production
+1234,Text Production
+1235,Text Production
+1236,Text Production
+1237,Text Production
+1238,Text Production
+1239,Text Production
+1240,Text Production
+1241,Text Production
+1242,Text Production
+1243,Text Production
+1244,Text Production
+1245,Text Production
+1246,Text Production
+1247,Text Production
+1248,Text Production
+1249,Text Production
+1250,Text Production
+1251,Text Production
+1252,Text Production
+1253,Text Production
+1254,Text Production
+1255,Text Production
+1256,Text Production
+1257,Text Production
+1258,Text Production
+1259,Text Production
+1260,Text Production
+1261,Text Production
+1262,Text Production
+1263,Text Production
+1264,Text Production
+1265,Text Production
+1266,Text Production
+1267,Text Production
+1268,Text Production
+1269,Text Production
+1270,Text Production
+1271,Text Production
+1272,Text Production
+1273,Text Production
+1274,Text Production
+1275,Text Production
+1276,Text Production
+1277,Text Production
+1278,Text Production
+1279,Text Production
+1280,Text Production
+1281,Text Production
+1282,Text Production
+1283,Text Production
+1284,Text Production
+1285,Text Production
+1286,Text Production
+1287,Text Production
+1288,Linguistic Style
+1289,Text Production
+1290,Text Production
+1291,Text Production
+1292,Text Production
+1293,Text Production
+1294,Text Production
+1295,Section Planning
+1296,Section Planning
+1297,Clarity
+1298,Clarity
+1299,Clarity
+1300,Clarity
+1301,Clarity
+1302,Clarity
+1303,Clarity
+1304,Clarity
+1305,Clarity
+1306,Clarity
+1307,Clarity
+1308,Clarity
+1309,Clarity
+1310,Fluency
+1311,Clarity
+1312,Clarity
+1313,Clarity
+1314,Clarity
+1315,Clarity
+1316,Clarity
+1317,Clarity
+1318,Macro Insertion
+1319,Macro Insertion
+1320,Macro Insertion
+1321,Macro Insertion
+1322,Macro Insertion
+1323,Macro Insertion
+1324,Macro Insertion
+1325,Macro Insertion
+1326,Macro Insertion
+1327,Macro Insertion
+1328,Macro Insertion
+1329,Macro Insertion
+1330,Macro Insertion
+1331,Macro Insertion
+1332,Visual Formatting
+1333,Idea Organization
+1334,Idea Organization
+1335,Idea Organization
+1336,Idea Organization
+1337,Idea Organization
+1338,Idea Organization
+1339,Idea Organization
+1340,Idea Organization
+1341,Idea Organization
+1342,Idea Organization
+1343,Idea Organization
+1344,Idea Organization
+1345,Idea Organization
+1346,Idea Organization
+1347,Idea Organization
+1348,Idea Organization
+1349,Idea Organization
+1350,Idea Organization
+1351,Idea Organization
+1352,Idea Organization
+1353,Visual Formatting
+1354,Idea Generation
+1355,Visual Formatting
+1356,Visual Formatting
+1357,Idea Generation
+1358,Idea Generation
+1359,Idea Generation
+1360,Idea Generation
+1361,Visual Formatting
+1362,Visual Formatting
+1363,Idea Organization
+1364,Idea Organization
+1365,Idea Organization
+1366,Idea Organization
+1367,Macro Insertion
+1368,Macro Insertion
+1369,Macro Insertion
+1370,Macro Insertion
+1371,Macro Insertion
+1372,Macro Insertion
+1373,Macro Insertion
+1374,Macro Insertion
+1375,Macro Insertion
+1376,Macro Insertion
+1377,Macro Insertion
+1378,Macro Insertion
+1379,Macro Insertion
+1380,Idea Generation
+1381,Section Planning
+1382,Section Planning
+1383,Section Planning
+1384,Section Planning
+1385,Section Planning
+1386,Section Planning
+1387,Section Planning
+1388,Visual Formatting
+1389,Section Planning
+1390,Section Planning
+1391,Clarity
+1392,Clarity
+1393,Clarity
+1394,Clarity
+1395,Text Production
+1396,Clarity
+1397,Clarity
+1398,Clarity
+1399,Clarity
+1400,Clarity
+1401,Clarity
+1402,Clarity
+1403,Clarity
+1404,Clarity
+1405,Clarity
+1406,Clarity
+1407,Clarity
+1408,Clarity
+1409,Clarity
+1410,Clarity
+1411,Clarity
+1412,Clarity
+1413,Clarity
+1414,Clarity
+1415,Clarity
+1416,Clarity
+1417,Text Production
+1418,Text Production
+1419,Text Production
+1420,Text Production
+1421,Text Production
+1422,Text Production
+1423,Text Production
+1424,Text Production
+1425,Text Production
+1426,Text Production
+1427,Text Production
+1428,Text Production
+1429,Text Production
+1430,Text Production
+1431,Text Production
+1432,Text Production
+1433,Text Production
+1434,Text Production
+1435,Text Production
+1436,Text Production
+1437,Text Production
+1438,Text Production
+1439,Text Production
+1440,Text Production
+1441,Text Production
+1442,Text Production
+1443,Text Production
+1444,Text Production
+1445,Text Production
+1446,Text Production
+1447,Text Production
+1448,Text Production
+1449,Text Production
+1450,Text Production
+1451,Clarity
+1452,Clarity
+1453,Clarity
+1454,Clarity
+1455,Clarity
+1456,Citation Integration
+1457,Citation Integration
+1458,Clarity
+1459,Clarity
+1460,Clarity
+1461,Clarity
+1462,Clarity
+1463,Text Production
+1464,Text Production
+1465,Text Production
+1466,Text Production
+1467,Text Production
+1468,Text Production
+1469,Text Production
+1470,Text Production
+1471,Text Production
+1472,Text Production
+1473,Text Production
+1474,Text Production
+1475,Text Production
+1476,Text Production
+1477,Text Production
+1478,Text Production
+1479,Text Production
+1480,Text Production
+1481,Text Production
+1482,Text Production
+1483,Text Production
+1484,Visual Formatting
+1485,Coherence
+1486,Clarity
+1487,Clarity
+1488,Clarity
+1489,Text Production
+1490,Text Production
+1491,Text Production
+1492,Text Production
+1493,Text Production
+1494,Text Production
+1495,Text Production
+1496,Text Production
+1497,Text Production
+1498,Text Production
+1499,Text Production
+1500,Text Production
+1501,Text Production
+1502,Text Production
+1503,Text Production
+1504,Text Production
+1505,Text Production
+1506,Text Production
+1507,Text Production
+1508,Text Production
+1509,Cross-reference
+1510,Cross-reference
+1511,Text Production
+1512,Text Production
+1513,Text Production
+1514,Text Production
+1515,Text Production
+1516,Text Production
+1517,Text Production
+1518,Idea Generation
+1519,Idea Generation
+1520,Idea Generation
+1521,Idea Generation
+1522,Idea Generation
+1523,Idea Generation
+1524,Idea Generation
+1525,Idea Generation
+1526,Idea Generation
+1527,Idea Generation
+1528,Idea Generation
+1529,Idea Generation
+1530,Idea Generation
+1531,Idea Generation
+1532,Idea Generation
+1533,Idea Generation
+1534,Idea Generation
+1535,Idea Generation
+1536,Idea Generation
+1537,Idea Generation
+1538,Idea Generation
+1539,Idea Generation
+1540,Idea Generation
+1541,Idea Generation
+1542,Idea Generation
+1543,Idea Generation
+1544,Idea Generation
+1545,Idea Generation
+1546,Idea Generation
+1547,Idea Generation
+1548,Idea Generation
+1549,Idea Generation
+1550,Idea Generation
+1551,Idea Generation
+1552,Idea Generation
+1553,Idea Generation
+1554,Idea Generation
+1555,Idea Generation
+1556,Idea Generation
+1557,Idea Generation
+1558,Idea Generation
+1559,Idea Generation
+1560,Idea Generation
+1561,Idea Generation
+1562,Idea Generation
+1563,Idea Generation
+1564,Idea Generation
+1565,Idea Generation
+1566,Idea Generation
+1567,Idea Generation
+1568,Idea Generation
+1569,Idea Generation
+1570,Idea Generation
+1571,Idea Generation
+1572,Idea Generation
+1573,Idea Generation
+1574,Idea Generation
+1575,Idea Generation
+1576,Idea Generation
+1577,Idea Generation
+1578,Idea Generation
+1579,Idea Generation
+1580,Idea Generation
+1581,Idea Generation
+1582,Idea Generation
+1583,Idea Generation
+1584,Idea Generation
+1585,Idea Generation
+1586,Idea Generation
+1587,Idea Generation
+1588,Idea Generation
+1589,Idea Generation
+1590,Idea Generation
+1591,Idea Generation
+1592,Idea Generation
+1593,Idea Generation
+1594,Idea Generation
+1595,Idea Generation
+1596,Idea Generation
+1597,Idea Generation
+1598,Idea Generation
+1599,Idea Generation
+1600,Text Production
+1601,Text Production
+1602,Text Production
+1603,Text Production
+1604,Text Production
+1605,Text Production
+1606,Text Production
+1607,Text Production
+1608,Text Production
+1609,Text Production
+1610,Text Production
+1611,Text Production
+1612,Text Production
+1613,Text Production
+1614,Text Production
+1615,Text Production
+1616,Text Production
+1617,Text Production
+1618,Text Production
+1619,Text Production
+1620,Text Production
+1621,Text Production
+1622,Text Production
+1623,Text Production
+1624,Text Production
+1625,Text Production
+1626,Text Production
+1627,Text Production
+1628,Text Production
+1629,Text Production
+1630,Text Production
+1631,Text Production
+1632,Text Production
+1633,Text Production
+1634,Text Production
+1635,Text Production
+1636,Text Production
+1637,Text Production
+1638,Text Production
+1639,Text Production
+1640,Text Production
+1641,Text Production
+1642,Text Production
+1643,Text Production
+1644,Text Production
+1645,Text Production
+1646,Text Production
+1647,Text Production
+1648,Text Production
+1649,Text Production
+1650,Text Production
+1651,Text Production
+1652,Text Production
+1653,Text Production
+1654,Text Production
+1655,Text Production
+1656,Text Production
+1657,Text Production
+1658,Text Production
+1659,Text Production
+1660,Text Production
+1661,Text Production
+1662,Text Production
+1663,Text Production
+1664,Text Production
+1665,Text Production
+1666,Text Production
+1667,Text Production
+1668,Text Production
+1669,Text Production
+1670,Text Production
+1671,Text Production
+1672,Text Production
+1673,Text Production
+1674,Text Production
+1675,Text Production
+1676,Text Production
+1677,Text Production
+1678,Text Production
+1679,Text Production
+1680,Text Production
+1681,Text Production
+1682,Text Production
+1683,Text Production
+1684,Text Production
+1685,Text Production
+1686,Text Production
+1687,Text Production
+1688,Text Production
+1689,Text Production
+1690,Text Production
+1691,Text Production
+1692,Text Production
+1693,Text Production
+1694,Text Production
+1695,Text Production
+1696,Text Production
+1697,Text Production
+1698,Text Production
+1699,Text Production
+1700,Text Production
+1701,Text Production
+1702,Text Production
+1703,Text Production
+1704,Text Production
+1705,Text Production
+1706,Text Production
+1707,Text Production
+1708,Text Production
+1709,Text Production
+1710,Text Production
+1711,Text Production
+1712,Text Production
+1713,Text Production
+1714,Text Production
+1715,Text Production
+1716,Text Production
+1717,Text Production
+1718,Coherence
+1719,Structural
+1720,Section Planning
+1721,Text Production
+1722,Text Production
+1723,Text Production
+1724,Text Production
+1725,Text Production
+1726,Text Production
+1727,Text Production
+1728,Text Production
+1729,Text Production
+1730,Text Production
+1731,Text Production
+1732,Text Production
+1733,Text Production
+1734,Text Production
+1735,Text Production
+1736,Text Production
+1737,Text Production
+1738,Text Production
+1739,Text Production
+1740,Text Production
+1741,Text Production
+1742,Text Production
+1743,Text Production
+1744,Text Production
+1745,Text Production
+1746,Text Production
+1747,Text Production
+1748,Text Production
+1749,Text Production
+1750,Text Production
+1751,Text Production
+1752,Text Production
+1753,Text Production
+1754,Text Production
+1755,Text Production
+1756,Text Production
+1757,Text Production
+1758,Text Production
+1759,Text Production
+1760,Text Production
+1761,Text Production
+1762,Text Production
+1763,Text Production
+1764,Text Production
+1765,Text Production
+1766,Text Production
+1767,Text Production
+1768,Text Production
+1769,Text Production
+1770,Text Production
+1771,Text Production
+1772,Text Production
+1773,Text Production
+1774,Text Production
+1775,Text Production
+1776,Text Production
+1777,Text Production
+1778,Text Production
+1779,Text Production
+1780,Text Production
+1781,Text Production
+1782,Text Production
+1783,Text Production
+1784,Coherence
+1785,Coherence
+1786,Coherence
+1787,Coherence
+1788,Coherence
+1789,Coherence
+1790,Object Insertion
+1791,Object Insertion
+1792,Object Insertion
+1793,Text Production
+1794,Text Production
+1795,Text Production
+1796,Text Production
+1797,Text Production
+1798,Text Production
+1799,Text Production
+1800,Text Production
+1801,Text Production
+1802,Text Production
+1803,Text Production
+1804,Text Production
+1805,Text Production
+1806,Text Production
+1807,Text Production
+1808,Text Production
+1809,Text Production
+1810,Text Production
+1811,Text Production
+1812,Text Production
+1813,Text Production
+1814,Text Production
+1815,Text Production
+1816,Text Production
+1817,Text Production
+1818,Text Production
+1819,Text Production
+1820,Text Production
+1821,Text Production
+1822,Text Production
+1823,Text Production
+1824,Text Production
+1825,Text Production
+1826,Text Production
+1827,Text Production
+1828,Text Production
+1829,Text Production
+1830,Text Production
+1831,Text Production
+1832,Text Production
+1833,Text Production
+1834,Text Production
+1835,Text Production
+1836,Text Production
+1837,Text Production
+1838,Text Production
+1839,Text Production
+1840,Text Production
+1841,Text Production
+1842,Text Production
+1843,Coherence
+1844,Coherence
+1845,Coherence
+1846,Text Production
+1847,Text Production
+1848,Text Production
+1849,Text Production
+1850,Text Production
+1851,Text Production
+1852,Text Production
+1853,Text Production
+1854,Text Production
+1855,Text Production
+1856,Text Production
+1857,Text Production
+1858,Text Production
+1859,Text Production
+1860,Text Production
+1861,Clarity
+1862,Clarity
+1863,Clarity
+1864,Clarity
+1865,Clarity
+1866,Clarity
+1867,Clarity
+1868,Clarity
+1869,Clarity
+1870,Clarity
+1871,Clarity
+1872,Clarity
+1873,Clarity
+1874,Clarity
+1875,Clarity
+1876,Clarity
+1877,Clarity
+1878,Clarity
+1879,Clarity
+1880,Clarity
+1881,Clarity
+1882,Text Production
+1883,Text Production
+1884,Text Production
+1885,Clarity
+1886,Clarity
+1887,Clarity
+1888,Coherence
+1889,Text Production
+1890,Text Production
+1891,Text Production
+1892,Text Production
+1893,Text Production
+1894,Text Production
+1895,Text Production
+1896,Text Production
+1897,Text Production
+1898,Text Production
+1899,Text Production
+1900,Text Production
+1901,Text Production
+1902,Text Production
+1903,Text Production
+1904,Text Production
+1905,Text Production
+1906,Text Production
+1907,Text Production
+1908,Text Production
+1909,Text Production
+1910,Text Production
+1911,Text Production
+1912,Text Production
+1913,Text Production
+1914,Text Production
+1915,Text Production
+1916,Text Production
+1917,Text Production
+1918,Text Production
+1919,Text Production
+1920,Text Production
+1921,Text Production
+1922,Text Production
+1923,Text Production
+1924,Text Production
+1925,Text Production
+1926,Text Production
+1927,Text Production
+1928,Text Production
+1929,Text Production
+1930,Text Production
+1931,Text Production
+1932,Text Production
+1933,Text Production
+1934,Text Production
+1935,Text Production
+1936,Text Production
+1937,Text Production
+1938,Section Planning
+1939,Section Planning
+1940,Section Planning
+1941,Section Planning
+1942,Section Planning
+1943,Section Planning
+1944,Section Planning
+1945,Text Production
+1946,Text Production
+1947,Citation Integration
+1948,Citation Integration
+1949,Citation Integration
+1950,Text Production
+1951,Text Production
+1952,Text Production
+1953,Text Production
+1954,Text Production
+1955,Text Production
+1956,Text Production
+1957,Text Production
+1958,Text Production
+1959,Text Production
+1960,Text Production
+1961,Text Production
+1962,Text Production
+1963,Text Production
+1964,Text Production
+1965,Text Production
+1966,Text Production
+1967,Text Production
+1968,Text Production
+1969,Text Production
+1970,Text Production
+1971,Text Production
+1972,Text Production
+1973,Text Production
+1974,Text Production
+1975,Text Production
+1976,Text Production
+1977,Text Production
+1978,Text Production
+1979,Text Production
+1980,Text Production
+1981,Text Production
+1982,Text Production
+1983,Text Production
+1984,Text Production
+1985,Text Production
+1986,Text Production
+1987,Text Production
+1988,Text Production
+1989,Text Production
+1990,Text Production
+1991,Text Production
+1992,Text Production
+1993,Text Production
+1994,Text Production
+1995,Text Production
+1996,Text Production
+1997,Text Production
+1998,Text Production
+1999,Text Production
+2000,Text Production
+2001,Text Production
+2002,Text Production
+2003,Text Production
+2004,Text Production
+2005,Text Production
+2006,Text Production
+2007,Text Production
+2008,Text Production
+2009,Text Production
+2010,Text Production
+2011,Text Production
+2012,Text Production
+2013,Text Production
+2014,Text Production
+2015,Text Production
+2016,Text Production
+2017,Text Production
+2018,Section Planning
+2019,Section Planning
+2020,Section Planning
+2021,Text Production
+2022,Text Production
+2023,Text Production
+2024,Text Production
+2025,Text Production
+2026,Text Production
+2027,Text Production
+2028,Text Production
+2029,Text Production
+2030,Text Production
+2031,Text Production
+2032,Text Production
+2033,Text Production
+2034,Text Production
+2035,Text Production
+2036,Text Production
+2037,Text Production
+2038,Text Production
+2039,Text Production
+2040,Text Production
+2041,Text Production
+2042,Text Production
+2043,Text Production
+2044,Text Production
+2045,Text Production
+2046,Text Production
+2047,Text Production
+2048,Text Production
+2049,Text Production
+2050,Text Production
+2051,Text Production
+2052,Text Production
+2053,Text Production
+2054,Text Production
+2055,Text Production
+2056,Text Production
+2057,Text Production
+2058,Text Production
+2059,Text Production
+2060,Text Production
+2061,Text Production
+2062,Text Production
+2063,Text Production
+2064,Text Production
+2065,Text Production
+2066,Text Production
+2067,Text Production
+2068,Text Production
+2069,Text Production
+2070,Text Production
+2071,Text Production
+2072,Text Production
+2073,Text Production
+2074,Text Production
+2075,Text Production
+2076,Text Production
+2077,Text Production
+2078,Text Production
+2079,Text Production
+2080,Text Production
+2081,Text Production
+2082,Text Production
+2083,Text Production
+2084,Text Production
+2085,Text Production
+2086,Text Production
+2087,Text Production
+2088,Text Production
+2089,Text Production
+2090,Text Production
+2091,Text Production
+2092,Text Production
+2093,Text Production
+2094,Text Production
+2095,Visual Formatting
+2096,Visual Formatting
+2097,Object Insertion
+2098,Object Insertion
+2099,Text Production
+2100,Text Production
+2101,Text Production
+2102,Text Production
+2103,Text Production
+2104,Text Production
+2105,Text Production
+2106,Text Production
+2107,Text Production
+2108,Text Production
+2109,Text Production
+2110,Text Production
+2111,Text Production
+2112,Text Production
+2113,Text Production
+2114,Text Production
+2115,Text Production
+2116,Text Production
+2117,Text Production
+2118,Text Production
+2119,Text Production
+2120,Text Production
+2121,Text Production
+2122,Text Production
+2123,Text Production
+2124,Text Production
+2125,Text Production
+2126,Text Production
+2127,Text Production
+2128,Text Production
+2129,Text Production
+2130,Text Production
+2131,Text Production
+2132,Text Production
+2133,Text Production
+2134,Text Production
+2135,Text Production
+2136,Text Production
+2137,Text Production
+2138,Text Production
+2139,Text Production
+2140,Text Production
+2141,Text Production
+2142,Text Production
+2143,Text Production
+2144,Text Production
+2145,Text Production
+2146,Text Production
+2147,Text Production
+2148,Text Production
+2149,Text Production
+2150,Text Production
+2151,Text Production
+2152,Text Production
+2153,Text Production
+2154,Text Production
+2155,Text Production
+2156,Text Production
+2157,Text Production
+2158,Text Production
+2159,Text Production
+2160,Text Production
+2161,Text Production
+2162,Text Production
+2163,Text Production
+2164,Text Production
+2165,Text Production
+2166,Text Production
+2167,Text Production
+2168,Text Production
+2169,Text Production
+2170,Text Production
+2171,Text Production
+2172,Text Production
+2173,Text Production
+2174,Text Production
+2175,Text Production
+2176,Text Production
+2177,Text Production
+2178,Text Production
+2179,Text Production
+2180,Text Production
+2181,Text Production
+2182,Text Production
+2183,Text Production
+2184,Text Production
+2185,Text Production
+2186,Text Production
+2187,Text Production
+2188,Text Production
+2189,Structural
+2190,Structural
+2191,Text Production
+2192,Text Production
+2193,Text Production
+2194,Text Production
+2195,Text Production
+2196,Text Production
+2197,Text Production
+2198,Text Production
+2199,Text Production
+2200,Text Production
+2201,Text Production
+2202,Text Production
+2203,Text Production
+2204,Text Production
+2205,Text Production
+2206,Text Production
+2207,Text Production
+2208,Text Production
+2209,Text Production
+2210,Text Production
+2211,Text Production
+2212,Text Production
+2213,Text Production
+2214,Text Production
+2215,Text Production
+2216,Text Production
+2217,Text Production
+2218,Text Production
+2219,Text Production
+2220,Text Production
+2221,Text Production
+2222,Text Production
+2223,Text Production
+2224,Text Production
+2225,Text Production
+2226,Text Production
+2227,Text Production
+2228,Text Production
+2229,Text Production
+2230,Text Production
+2231,Text Production
+2232,Text Production
+2233,Text Production
+2234,Text Production
+2235,Text Production
+2236,Text Production
+2237,Text Production
+2238,Text Production
+2239,Text Production
+2240,Text Production
+2241,Text Production
+2242,Text Production
+2243,Text Production
+2244,Text Production
+2245,Text Production
+2246,Text Production
+2247,Text Production
+2248,Text Production
+2249,Text Production
+2250,Coherence
+2251,Coherence
+2252,Text Production
+2253,Text Production
+2254,Text Production
+2255,Text Production
+2256,Text Production
+2257,Text Production
+2258,Text Production
+2259,Text Production
+2260,Text Production
+2261,Text Production
+2262,Text Production
+2263,Text Production
+2264,Text Production
+2265,Text Production
+2266,Text Production
+2267,Text Production
+2268,Text Production
+2269,Text Production
+2270,Text Production
+2271,Text Production
+2272,Text Production
+2273,Text Production
+2274,Text Production
+2275,Text Production
+2276,Text Production
+2277,Text Production
+2278,Text Production
+2279,Text Production
+2280,Text Production
+2281,Text Production
+2282,Text Production
+2283,Text Production
+2284,Text Production
+2285,Text Production
+2286,Text Production
+2287,Text Production
+2288,Text Production
+2289,Text Production
+2290,Text Production
+2291,Text Production
+2292,Text Production
+2293,Text Production
+2294,Text Production
+2295,Text Production
+2296,Text Production
+2297,Text Production
+2298,Text Production
+2299,Text Production
+2300,Text Production
+2301,Text Production
+2302,Text Production
+2303,Text Production
+2304,Text Production
+2305,Text Production
+2306,Text Production
+2307,Text Production
+2308,Text Production
+2309,Text Production
+2310,Text Production
+2311,Text Production
+2312,Text Production
+2313,Text Production
+2314,Text Production
+2315,Text Production
+2316,Text Production
+2317,Text Production
+2318,Text Production
+2319,Text Production
+2320,Text Production
+2321,Text Production
+2322,Text Production
+2323,Text Production
+2324,Text Production
+2325,Text Production
+2326,Text Production
+2327,Text Production
+2328,Text Production
+2329,Text Production
+2330,Text Production
+2331,Text Production
+2332,Text Production
+2333,Text Production
+2334,Text Production
+2335,Text Production
+2336,Text Production
+2337,Text Production
+2338,Text Production
+2339,Text Production
+2340,Text Production
+2341,Text Production
+2342,Text Production
+2343,Text Production
+2344,Text Production
+2345,Text Production
+2346,Text Production
+2347,Text Production
+2348,Text Production
+2349,Text Production
+2350,Text Production
+2351,Text Production
+2352,Text Production
+2353,Text Production
+2354,Text Production
+2355,Text Production
+2356,Text Production
+2357,Text Production
+2358,Text Production
+2359,Text Production
+2360,Text Production
+2361,Text Production
+2362,Text Production
+2363,Text Production
+2364,Text Production
+2365,Text Production
+2366,Text Production
+2367,Text Production
+2368,Text Production
+2369,Text Production
+2370,Text Production
+2371,Text Production
+2372,Text Production
+2373,Text Production
+2374,Text Production
+2375,Text Production
+2376,Text Production
+2377,Text Production
+2378,Text Production
+2379,Text Production
+2380,Text Production
+2381,Text Production
+2382,Text Production
+2383,Text Production
+2384,Text Production
+2385,Text Production
+2386,Text Production
+2387,Text Production
+2388,Text Production
+2389,Text Production
+2390,Text Production
+2391,Text Production
+2392,Text Production
+2393,Text Production
+2394,Text Production
+2395,Text Production
+2396,Text Production
+2397,Text Production
+2398,Text Production
+2399,Text Production
+2400,Text Production
+2401,Text Production
+2402,Text Production
+2403,Text Production
+2404,Text Production
+2405,Text Production
+2406,Text Production
+2407,Text Production
+2408,Text Production
+2409,Text Production
+2410,Text Production
+2411,Text Production
+2412,Text Production
+2413,Text Production
+2414,Text Production
+2415,Text Production
+2416,Text Production
+2417,Text Production
+2418,Text Production
+2419,Text Production
+2420,Text Production
+2421,Text Production
+2422,Text Production
+2423,Text Production
+2424,Text Production
+2425,Text Production
+2426,Text Production
+2427,Text Production
+2428,Text Production
+2429,Text Production
+2430,Text Production
+2431,Text Production
+2432,Text Production
+2433,Text Production
+2434,Text Production
+2435,Text Production
+2436,Text Production
+2437,Text Production
+2438,Text Production
+2439,Text Production
+2440,Text Production
+2441,Text Production
+2442,Text Production
+2443,Text Production
+2444,Text Production
+2445,Text Production
+2446,Text Production
+2447,Text Production
+2448,Text Production
+2449,Text Production
+2450,Linguistic Style
+2451,Text Production
+2452,Text Production
+2453,Text Production
+2454,Text Production
+2455,Text Production
+2456,Text Production
+2457,Text Production
+2458,Text Production
+2459,Text Production
+2460,Text Production
+2461,Text Production
+2462,Text Production
+2463,Text Production
+2464,Text Production
+2465,Text Production
+2466,Text Production
+2467,Text Production
+2468,Text Production
+2469,Text Production
+2470,Text Production
+2471,Text Production
+2472,Text Production
+2473,Text Production
+2474,Text Production
+2475,Text Production
+2476,Text Production
+2477,Text Production
+2478,Text Production
+2479,Text Production
+2480,Text Production
+2481,Text Production
+2482,Text Production
+2483,Text Production
+2484,Text Production
+2485,Text Production
+2486,Text Production
+2487,Text Production
+2488,Text Production
+2489,Text Production
+2490,Fluency
+2491,Fluency
+2492,Coherence
+2493,Clarity
+2494,Clarity
+2495,Clarity
+2496,Clarity
+2497,Clarity
+2498,Clarity
+2499,Clarity
+2500,Clarity
+2501,Clarity
+2502,Clarity
+2503,Clarity
+2504,Clarity
+2505,Clarity
+2506,Clarity
+2507,Clarity
+2508,Clarity
+2509,Clarity
+2510,Clarity
+2511,Clarity
+2512,Clarity
+2513,Clarity
+2514,Clarity
+2515,Clarity
+2516,Clarity
+2517,Clarity
+2518,Clarity
+2519,Clarity
+2520,Clarity
+2521,Clarity
+2522,Clarity
+2523,Clarity
+2524,Clarity
+2525,Clarity
+2526,Clarity
+2527,Clarity
+2528,Clarity
+2529,Clarity
+2530,Clarity
+2531,Clarity
+2532,Clarity
+2533,Clarity
+2534,Clarity
+2535,Clarity
+2536,Clarity
+2537,Text Production
+2538,Text Production
+2539,Text Production
+2540,Text Production
+2541,Text Production
+2542,Text Production
+2543,Text Production
+2544,Text Production
+2545,Text Production
+2546,Text Production
+2547,Text Production
+2548,Text Production
+2549,Text Production
+2550,Text Production
+2551,Text Production
+2552,Text Production
+2553,Text Production
+2554,Text Production
+2555,Text Production
+2556,Text Production
+2557,Text Production
+2558,Text Production
+2559,Text Production
+2560,Text Production
+2561,Text Production
+2562,Text Production
+2563,Text Production
+2564,Text Production
+2565,Text Production
+2566,Text Production
+2567,Text Production
+2568,Text Production
+2569,Text Production
+2570,Text Production
+2571,Text Production
+2572,Text Production
+2573,Text Production
+2574,Text Production
+2575,Text Production
+2576,Text Production
+2577,Text Production
+2578,Text Production
+2579,Text Production
+2580,Text Production
+2581,Text Production
+2582,Text Production
+2583,Text Production
+2584,Text Production
+2585,Text Production
+2586,Text Production
+2587,Text Production
+2588,Text Production
+2589,Text Production
+2590,Text Production
+2591,Text Production
+2592,Text Production
+2593,Text Production
+2594,Text Production
+2595,Text Production
+2596,Text Production
+2597,Text Production
+2598,Text Production
+2599,Text Production
+2600,Text Production
+2601,Text Production
+2602,Text Production
+2603,Text Production
+2604,Text Production
+2605,Text Production
+2606,Text Production
+2607,Text Production
+2608,Text Production
+2609,Text Production
+2610,Text Production
+2611,Text Production
+2612,Text Production
+2613,Text Production
+2614,Text Production
+2615,Text Production
+2616,Text Production
+2617,Text Production
+2618,Text Production
+2619,Text Production
+2620,Text Production
+2621,Text Production
+2622,Text Production
+2623,Text Production
+2624,Text Production
+2625,Text Production
+2626,Text Production
+2627,Text Production
+2628,Text Production
+2629,Text Production
+2630,Text Production
+2631,Text Production
+2632,Text Production
+2633,Text Production
+2634,Text Production
+2635,Text Production
+2636,Text Production
+2637,Text Production
+2638,Text Production
+2639,Text Production
+2640,Text Production
+2641,Text Production
+2642,Text Production
+2643,Text Production
+2644,Text Production
+2645,Text Production
+2646,Text Production
+2647,Text Production
+2648,Text Production
+2649,Text Production
+2650,Text Production
+2651,Text Production
+2652,Text Production
+2653,Text Production
+2654,Text Production
+2655,Text Production
+2656,Text Production
+2657,Text Production
+2658,Text Production
+2659,Text Production
+2660,Text Production
+2661,Text Production
+2662,Text Production
+2663,Text Production
+2664,Text Production
+2665,Text Production
+2666,Text Production
+2667,Text Production
+2668,Text Production
+2669,Text Production
+2670,Text Production
+2671,Text Production
+2672,Text Production
+2673,Text Production
+2674,Text Production
+2675,Linguistic Style
+2676,Coherence
+2677,Linguistic Style
+2678,Text Production
+2679,Text Production
+2680,Text Production
+2681,Text Production
+2682,Text Production
+2683,Text Production
+2684,Text Production
+2685,Text Production
+2686,Text Production
+2687,Macro Insertion
+2688,Clarity
+2689,Clarity
+2690,Clarity
+2691,Clarity
+2692,Macro Insertion
+2693,Section Planning
+2694,Section Planning
+2695,Text Production
+2696,Text Production
+2697,Text Production
+2698,Text Production
+2699,Text Production
+2700,Text Production
+2701,Text Production
+2702,Text Production
+2703,Text Production
+2704,Text Production
+2705,Text Production
+2706,Text Production
+2707,Coherence
+2708,Coherence
+2709,Coherence
+2710,Coherence
+2711,Text Production
+2712,Text Production
+2713,Text Production
+2714,Text Production
+2715,Text Production
+2716,Text Production
+2717,Text Production
+2718,Text Production
+2719,Text Production
+2720,Text Production
+2721,Text Production
+2722,Text Production
+2723,Text Production
+2724,Text Production
+2725,Text Production
+2726,Text Production
+2727,Text Production
+2728,Text Production
+2729,Text Production
+2730,Text Production
+2731,Text Production
+2732,Text Production
+2733,Text Production
+2734,Text Production
+2735,Text Production
+2736,Text Production
+2737,Text Production
+2738,Text Production
+2739,Text Production
+2740,Text Production
+2741,Text Production
+2742,Text Production
+2743,Text Production
+2744,Text Production
+2745,Text Production
+2746,Text Production
+2747,Text Production
+2748,Text Production
+2749,Text Production
+2750,Text Production
+2751,Text Production
+2752,Text Production
+2753,Text Production
+2754,Text Production
+2755,Text Production
+2756,Text Production
+2757,Text Production
+2758,Text Production
+2759,Text Production
+2760,Text Production
+2761,Text Production
+2762,Text Production
+2763,Text Production
+2764,Text Production
+2765,Text Production
+2766,Text Production
+2767,Text Production
+2768,Text Production
+2769,Text Production
+2770,Text Production
+2771,Text Production
+2772,Text Production
+2773,Text Production
+2774,Text Production
+2775,Text Production
+2776,Text Production
+2777,Text Production
+2778,Text Production
+2779,Text Production
+2780,Text Production
+2781,Text Production
+2782,Text Production
+2783,Text Production
+2784,Text Production
+2785,Text Production
+2786,Text Production
+2787,Text Production
+2788,Text Production
+2789,Text Production
+2790,Text Production
+2791,Text Production
+2792,Text Production
+2793,Text Production
+2794,Text Production
+2795,Text Production
+2796,Text Production
+2797,Text Production
+2798,Text Production
+2799,Text Production
+2800,Text Production
+2801,Text Production
+2802,Text Production
+2803,Object Insertion
+2804,Object Insertion
+2805,Object Insertion
+2806,Visual Formatting
+2807,Text Production
+2808,Text Production
+2809,Text Production
+2810,Text Production
+2811,Text Production
+2812,Text Production
+2813,Text Production
+2814,Text Production
+2815,Text Production
+2816,Text Production
+2817,Text Production
+2818,Text Production
+2819,Text Production
+2820,Text Production
+2821,Text Production
+2822,Text Production
+2823,Text Production
+2824,Text Production
+2825,Text Production
+2826,Text Production
+2827,Text Production
+2828,Text Production
+2829,Text Production
+2830,Text Production
+2831,Text Production
+2832,Text Production
+2833,Text Production
+2834,Text Production
+2835,Text Production
+2836,Text Production
+2837,Text Production
+2838,Text Production
+2839,Text Production
+2840,Text Production
+2841,Text Production
+2842,Text Production
+2843,Text Production
+2844,Text Production
+2845,Text Production
+2846,Text Production
+2847,Text Production
+2848,Text Production
+2849,Text Production
+2850,Text Production
+2851,Text Production
+2852,Text Production
+2853,Text Production
+2854,Text Production
+2855,Structural
+2856,Structural
+2857,Fluency
+2858,Fluency
+2859,Fluency
+2860,Text Production
+2861,Text Production
+2862,Text Production
+2863,Text Production
+2864,Text Production
+2865,Text Production
+2866,Text Production
+2867,Text Production
+2868,Text Production
+2869,Text Production
+2870,Text Production
+2871,Text Production
+2872,Text Production
+2873,Text Production
+2874,Text Production
+2875,Text Production
+2876,Text Production
+2877,Text Production
+2878,Text Production
+2879,Text Production
+2880,Text Production
+2881,Text Production
+2882,Text Production
+2883,Text Production
+2884,Text Production
+2885,Text Production
+2886,Text Production
+2887,Text Production
+2888,Text Production
+2889,Text Production
+2890,Text Production
+2891,Text Production
+2892,Text Production
+2893,Text Production
+2894,Text Production
+2895,Text Production
+2896,Text Production
+2897,Text Production
+2898,Text Production
+2899,Text Production
+2900,Text Production
+2901,Text Production
+2902,Text Production
+2903,Text Production
+2904,Text Production
+2905,Text Production
+2906,Text Production
+2907,Text Production
+2908,Text Production
+2909,Text Production
+2910,Text Production
+2911,Text Production
+2912,Object Insertion
+2913,Object Insertion
+2914,Object Insertion
+2915,Text Production
+2916,Object Insertion
+2917,Text Production
+2918,Text Production
+2919,Text Production
+2920,Text Production
+2921,Text Production
+2922,Text Production
+2923,Object Insertion
+2924,Text Production
+2925,Text Production
+2926,Text Production
+2927,Text Production
+2928,Coherence
+2929,Scientific Accuracy
+2930,Scientific Accuracy
+2931,Text Production
+2932,Text Production
+2933,Text Production
+2934,Text Production
+2935,Text Production
+2936,Text Production
+2937,Text Production
+2938,Text Production
+2939,Text Production
+2940,Text Production
+2941,Text Production
+2942,Text Production
+2943,Text Production
+2944,Text Production
+2945,Text Production
+2946,Clarity
+2947,Clarity
+2948,Clarity
+2949,Clarity
+2950,Clarity
+2951,Clarity
+2952,Coherence
+2953,Text Production
+2954,Text Production
+2955,Text Production
+2956,Coherence
+2957,Coherence
+2958,Coherence
+2959,Text Production
+2960,Text Production
+2961,Text Production
+2962,Text Production
+2963,Text Production
+2964,Text Production
+2965,Text Production
+2966,Text Production
+2967,Text Production
+2968,Text Production
+2969,Text Production
+2970,Text Production
+2971,Text Production
+2972,Text Production
+2973,Text Production
+2974,Text Production
+2975,Text Production
+2976,Text Production
+2977,Text Production
+2978,Text Production
+2979,Text Production
+2980,Text Production
+2981,Text Production
+2982,Text Production
+2983,Text Production
+2984,Text Production
+2985,Text Production
+2986,Text Production
+2987,Text Production
+2988,Text Production
+2989,Text Production
+2990,Text Production
+2991,Text Production
+2992,Text Production
+2993,Text Production
+2994,Text Production
+2995,Text Production
+2996,Text Production
+2997,Text Production
+2998,Coherence
+2999,Coherence
+3000,Text Production
+3001,Text Production
+3002,Text Production
+3003,Cross-reference
+3004,Cross-reference
+3005,Text Production
+3006,Text Production
+3007,Text Production
+3008,Text Production
+3009,Text Production
+3010,Text Production
+3011,Text Production
+3012,Text Production
+3013,Text Production
+3014,Text Production
+3015,Text Production
+3016,Text Production
+3017,Text Production
+3018,Text Production
+3019,Text Production
+3020,Text Production
+3021,Text Production
+3022,Text Production
+3023,Text Production
+3024,Text Production
+3025,Text Production
+3026,Text Production
+3027,Text Production
+3028,Text Production
+3029,Text Production
+3030,Text Production
+3031,Text Production
+3032,Text Production
+3033,Text Production
+3034,Text Production
+3035,Text Production
+3036,Text Production
+3037,Text Production
+3038,Text Production
+3039,Text Production
+3040,Text Production
+3041,Text Production
+3042,Text Production
+3043,Text Production
+3044,Text Production
+3045,Text Production
+3046,Text Production
+3047,Text Production
+3048,Text Production
+3049,Text Production
+3050,Text Production
+3051,Text Production
+3052,Text Production
+3053,Text Production
+3054,Text Production
+3055,Text Production
+3056,Text Production
+3057,Text Production
+3058,Text Production
+3059,Text Production
+3060,Text Production
+3061,Text Production
+3062,Text Production
+3063,Text Production
+3064,Text Production
+3065,Text Production
+3066,Text Production
+3067,Text Production
+3068,Text Production
+3069,Text Production
+3070,Coherence
+3071,Text Production
+3072,Text Production
+3073,Text Production
+3074,Text Production
+3075,Text Production
+3076,Text Production
+3077,Text Production
+3078,Text Production
+3079,Text Production
+3080,Text Production
+3081,Text Production
+3082,Text Production
+3083,Text Production
+3084,Text Production
+3085,Text Production
+3086,Text Production
+3087,Text Production
+3088,Text Production
+3089,Text Production
+3090,Text Production
+3091,Text Production
+3092,Text Production
+3093,Text Production
+3094,Text Production
+3095,Text Production
+3096,Text Production
+3097,Text Production
+3098,Text Production
+3099,Text Production
+3100,Text Production
+3101,Text Production
+3102,Text Production
+3103,Text Production
+3104,Text Production
+3105,Text Production
+3106,Text Production
+3107,Text Production
+3108,Text Production
+3109,Text Production
+3110,Text Production
+3111,Text Production
+3112,Text Production
+3113,Text Production
+3114,Text Production
+3115,Text Production
+3116,Text Production
+3117,Text Production
+3118,Text Production
+3119,Text Production
+3120,Text Production
+3121,Text Production
+3122,Text Production
+3123,Text Production
+3124,Text Production
+3125,Text Production
+3126,Text Production
+3127,Text Production
+3128,Text Production
+3129,Text Production
+3130,Text Production
+3131,Text Production
+3132,Text Production
+3133,Text Production
+3134,Text Production
+3135,Text Production
+3136,Text Production
+3137,Text Production
+3138,Text Production
+3139,Text Production
+3140,Text Production
+3141,Text Production
+3142,Text Production
+3143,Text Production
+3144,Text Production
+3145,Text Production
+3146,Text Production
+3147,Text Production
+3148,Text Production
+3149,Text Production
+3150,Text Production
+3151,Text Production
+3152,Text Production
+3153,Text Production
+3154,Text Production
+3155,Text Production
+3156,Text Production
+3157,Text Production
+3158,Text Production
+3159,Text Production
+3160,Text Production
+3161,Text Production
+3162,Text Production
+3163,Text Production
+3164,Linguistic Style
+3165,Linguistic Style
+3166,Text Production
+3167,Text Production
+3168,Text Production
+3169,Text Production
+3170,Text Production
+3171,Text Production
+3172,Text Production
+3173,Text Production
+3174,Text Production
+3175,Text Production
+3176,Text Production
+3177,Text Production
+3178,Text Production
+3179,Text Production
+3180,Text Production
+3181,Text Production
+3182,Text Production
+3183,Text Production
+3184,Text Production
+3185,Text Production
+3186,Text Production
+3187,Text Production
+3188,Text Production
+3189,Text Production
+3190,Visual Formatting
+3191,Text Production
+3192,Text Production
+3193,Text Production
+3194,Text Production
+3195,Text Production
+3196,Text Production
+3197,Text Production
+3198,Text Production
+3199,Text Production
+3200,Text Production
+3201,Text Production
+3202,Text Production
+3203,Text Production
+3204,Text Production
+3205,Text Production
+3206,Text Production
+3207,Text Production
+3208,Text Production
+3209,Text Production
+3210,Text Production
+3211,Text Production
+3212,Text Production
+3213,Text Production
+3214,Text Production
+3215,Text Production
+3216,Text Production
+3217,Text Production
+3218,Text Production
+3219,Text Production
+3220,Text Production
+3221,Text Production
+3222,Text Production
+3223,Text Production
+3224,Text Production
+3225,Text Production
+3226,Text Production
+3227,Text Production
+3228,Text Production
+3229,Text Production
+3230,Text Production
+3231,Text Production
+3232,Text Production
+3233,Text Production
+3234,Text Production
+3235,Text Production
+3236,Text Production
+3237,Text Production
+3238,Text Production
+3239,Text Production
+3240,Text Production
+3241,Text Production
+3242,Text Production
+3243,Text Production
+3244,Text Production
+3245,Text Production
+3246,Text Production
+3247,Text Production
+3248,Text Production
+3249,Text Production
+3250,Text Production
+3251,Text Production
+3252,Text Production
+3253,Text Production
+3254,Text Production
+3255,Text Production
+3256,Text Production
+3257,Text Production
+3258,Text Production
+3259,Text Production
+3260,Text Production
+3261,Text Production
+3262,Text Production
+3263,Text Production
+3264,Text Production
+3265,Text Production
+3266,Text Production
+3267,Text Production
+3268,Text Production
+3269,Text Production
+3270,Text Production
+3271,Text Production
+3272,Text Production
+3273,Text Production
+3274,Text Production
+3275,Text Production
+3276,Text Production
+3277,Text Production
+3278,Text Production
+3279,Text Production
+3280,Text Production
+3281,Text Production
+3282,Text Production
+3283,Text Production
+3284,Text Production
+3285,Text Production
+3286,Text Production
+3287,Text Production
+3288,Text Production
+3289,Text Production
+3290,Text Production
+3291,Text Production
+3292,Text Production
+3293,Text Production
+3294,Text Production
+3295,Text Production
+3296,Text Production
+3297,Text Production
+3298,Text Production
+3299,Text Production
+3300,Text Production
+3301,Text Production
+3302,Text Production
+3303,Text Production
+3304,Text Production
+3305,Text Production
+3306,Text Production
+3307,Text Production
+3308,Structural
+3309,Structural
+3310,Structural
+3311,Clarity
+3312,Clarity
+3313,Clarity
+3314,Clarity
+3315,Clarity
+3316,Clarity
+3317,Clarity
+3318,Fluency
+3319,Fluency
+3320,Fluency
+3321,Coherence
+3322,Fluency
+3323,Text Production
+3324,Text Production
+3325,Text Production
+3326,Text Production
+3327,Text Production
+3328,Text Production
+3329,Text Production
+3330,Text Production
+3331,Text Production
+3332,Text Production
+3333,Text Production
+3334,Text Production
+3335,Text Production
+3336,Text Production
+3337,Text Production
+3338,Text Production
+3339,Text Production
+3340,Text Production
+3341,Text Production
+3342,Text Production
+3343,Text Production
+3344,Text Production
+3345,Text Production
+3346,Text Production
+3347,Text Production
+3348,Text Production
+3349,Text Production
+3350,Text Production
+3351,Text Production
+3352,Text Production
+3353,Text Production
+3354,Text Production
+3355,Text Production
+3356,Text Production
+3357,Text Production
+3358,Text Production
+3359,Text Production
+3360,Text Production
+3361,Text Production
+3362,Text Production
+3363,Text Production
+3364,Text Production
+3365,Text Production
+3366,Text Production
+3367,Text Production
+3368,Text Production
+3369,Text Production
+3370,Text Production
+3371,Text Production
+3372,Text Production
+3373,Text Production
+3374,Text Production
+3375,Text Production
+3376,Text Production
+3377,Text Production
+3378,Text Production
+3379,Text Production
+3380,Text Production
+3381,Text Production
+3382,Text Production
+3383,Text Production
+3384,Text Production
+3385,Text Production
+3386,Structural
+3387,Structural
+3388,Structural
+3389,Structural
+3390,Structural
+3391,Structural
+3392,Structural
+3393,Structural
+3394,Structural
+3395,Structural
+3396,Structural
+3397,Structural
+3398,Structural
+3399,Structural
+3400,Text Production
+3401,Text Production
+3402,Text Production
+3403,Text Production
+3404,Text Production
+3405,Text Production
+3406,Text Production
+3407,Text Production
+3408,Text Production
+3409,Text Production
+3410,Text Production
+3411,Text Production
+3412,Text Production
+3413,Text Production
+3414,Text Production
+3415,Text Production
+3416,Text Production
+3417,Text Production
+3418,Text Production
+3419,Text Production
+3420,Citation Integration
+3421,Text Production
+3422,Text Production
+3423,Text Production
+3424,Text Production
+3425,Text Production
+3426,Text Production
+3427,Text Production
+3428,Text Production
+3429,Text Production
+3430,Text Production
+3431,Text Production
+3432,Text Production
+3433,Text Production
+3434,Text Production
+3435,Text Production
+3436,Text Production
+3437,Text Production
+3438,Text Production
+3439,Linguistic Style
+3440,Linguistic Style
+3441,Coherence
+3442,Clarity
+3443,Clarity
+3444,Clarity
+3445,Coherence
+3446,Coherence
+3447,Coherence
+3448,Clarity
+3449,Clarity
+3450,Clarity
+3451,Clarity
+3452,Clarity
+3453,Clarity
+3454,Clarity
+3455,Clarity
+3456,Clarity
+3457,Clarity
+3458,Clarity
+3459,Clarity
+3460,Clarity
+3461,Clarity
+3462,Text Production
+3463,Text Production
+3464,Text Production
+3465,Text Production
+3466,Text Production
+3467,Text Production
+3468,Text Production
+3469,Text Production
+3470,Text Production
+3471,Text Production
+3472,Text Production
+3473,Text Production
+3474,Text Production
+3475,Text Production
+3476,Text Production
+3477,Text Production
+3478,Text Production
+3479,Text Production
+3480,Text Production
+3481,Text Production
+3482,Text Production
+3483,Text Production
+3484,Text Production
+3485,Text Production
+3486,Text Production
+3487,Clarity
+3488,Clarity
+3489,Clarity
+3490,Clarity
+3491,Clarity
+3492,Clarity
+3493,Clarity
+3494,Clarity
+3495,Clarity
+3496,Clarity
+3497,Clarity
+3498,Clarity
+3499,Clarity
+3500,Clarity
+3501,Clarity
+3502,Clarity
+3503,Clarity
+3504,Clarity
+3505,Clarity
+3506,Clarity
+3507,Structural
+3508,Structural
+3509,Coherence
+3510,Coherence
+3511,Coherence
+3512,Coherence
+3513,Coherence
+3514,Clarity
+3515,Clarity
+3516,Clarity
+3517,Clarity
+3518,Clarity
+3519,Clarity
+3520,Clarity
+3521,Clarity
+3522,Clarity
+3523,Clarity
+3524,Clarity
+3525,Clarity
+3526,Clarity
+3527,Clarity
+3528,Clarity
+3529,Clarity
+3530,Citation Integration
+3531,Citation Integration
+3532,Clarity
+3533,Clarity
+3534,Clarity
+3535,Clarity
+3536,Clarity
+3537,Clarity
+3538,Clarity
+3539,Clarity
+3540,Clarity
+3541,Clarity
+3542,Clarity
+3543,Clarity
+3544,Clarity
+3545,Clarity
+3546,Clarity
+3547,Clarity
+3548,Clarity
+3549,Clarity
+3550,Clarity
+3551,Clarity
+3552,Clarity
+3553,Clarity
+3554,Clarity
+3555,Clarity
+3556,Clarity
+3557,Clarity
+3558,Clarity
+3559,Clarity
+3560,Clarity
+3561,Clarity
+3562,Clarity
+3563,Clarity
+3564,Clarity
+3565,Clarity
+3566,Clarity
+3567,Clarity
+3568,Clarity
+3569,Clarity
+3570,Clarity
+3571,Clarity
+3572,Clarity
+3573,Clarity
+3574,Clarity
+3575,Clarity
+3576,Clarity
+3577,Clarity
+3578,Text Production
+3579,Text Production
+3580,Text Production
+3581,Text Production
+3582,Text Production
+3583,Text Production
+3584,Text Production
+3585,Text Production
+3586,Text Production
+3587,Text Production
+3588,Text Production
+3589,Text Production
+3590,Text Production
+3591,Text Production
+3592,Text Production
+3593,Text Production
+3594,Text Production
+3595,Text Production
+3596,Text Production
+3597,Text Production
+3598,Text Production
+3599,Text Production
+3600,Text Production
+3601,Text Production
+3602,Text Production
+3603,Text Production
+3604,Text Production
+3605,Text Production
+3606,Text Production
+3607,Text Production
+3608,Text Production
+3609,Text Production
+3610,Text Production
+3611,Text Production
+3612,Text Production
+3613,Text Production
+3614,Text Production
+3615,Text Production
+3616,Text Production
+3617,Text Production
+3618,Text Production
+3619,Text Production
+3620,Text Production
+3621,Text Production
+3622,Text Production
+3623,Text Production
+3624,Text Production
+3625,Text Production
+3626,Text Production
+3627,Text Production
+3628,Text Production
+3629,Text Production
+3630,Text Production
+3631,Text Production
+3632,Text Production
+3633,Text Production
+3634,Coherence
+3635,Linguistic Style
+3636,Text Production
+3637,Text Production
+3638,Text Production
+3639,Text Production
+3640,Text Production
+3641,Text Production
+3642,Text Production
+3643,Text Production
+3644,Text Production
+3645,Text Production
+3646,Text Production
+3647,Text Production
+3648,Text Production
+3649,Text Production
+3650,Text Production
+3651,Text Production
+3652,Text Production
+3653,Object Insertion
+3654,Object Insertion
+3655,Object Insertion
+3656,Object Insertion
+3657,Linguistic Style
+3658,Text Production
+3659,Text Production
+3660,Text Production
+3661,Text Production
+3662,Text Production
+3663,Text Production
+3664,Text Production
+3665,Text Production
+3666,Text Production
+3667,Text Production
+3668,Text Production
+3669,Text Production
+3670,Text Production
+3671,Text Production
+3672,Text Production
+3673,Text Production
+3674,Text Production
+3675,Text Production
+3676,Text Production
+3677,Text Production
+3678,Text Production
+3679,Text Production
+3680,Text Production
+3681,Text Production
+3682,Fluency
+3683,Citation Integration
+3684,Citation Integration
+3685,Citation Integration
+3686,Citation Integration
+3687,Citation Integration
+3688,Citation Integration
+3689,Citation Integration
+3690,Citation Integration
+3691,Citation Integration
+3692,Citation Integration
+3693,Citation Integration
+3694,Object Insertion
+3695,Object Insertion
+3696,Object Insertion
+3697,Object Insertion
+3698,Object Insertion
+3699,Citation Integration
+3700,Citation Integration
+3701,Coherence
+3702,Coherence
+3703,Coherence
+3704,Coherence
+3705,Coherence
+3706,Coherence
+3707,Coherence
+3708,Structural
+3709,Structural
+3710,Structural
+3711,Structural
+3712,Fluency
+3713,Fluency
+3714,Text Production
+3715,Text Production
+3716,Text Production
+3717,Text Production
+3718,Text Production
+3719,Text Production
+3720,Text Production
+3721,Text Production
+3722,Text Production
+3723,Text Production
+3724,Text Production
+3725,Text Production
+3726,Text Production
+3727,Text Production
+3728,Text Production
+3729,Text Production
+3730,Text Production
+3731,Text Production
+3732,Text Production
+3733,Text Production
+3734,Text Production
+3735,Text Production
+3736,Text Production
+3737,Text Production
+3738,Text Production
+3739,Text Production
+3740,Text Production
+3741,Text Production
+3742,Text Production
+3743,Text Production
+3744,Text Production
+3745,Clarity
+3746,Clarity
+3747,Clarity
+3748,Clarity
+3749,Clarity
+3750,Clarity
+3751,Text Production
+3752,Text Production
+3753,Text Production
+3754,Text Production
+3755,Text Production
+3756,Text Production
+3757,Text Production
+3758,Clarity
+3759,Clarity
+3760,Clarity
+3761,Clarity
+3762,Clarity
+3763,Clarity
+3764,Clarity
+3765,Clarity
+3766,Clarity
+3767,Clarity
+3768,Clarity
+3769,Clarity
+3770,Clarity
+3771,Text Production
+3772,Text Production
+3773,Text Production
+3774,Text Production
+3775,Text Production
+3776,Text Production
+3777,Text Production
+3778,Text Production
+3779,Text Production
+3780,Text Production
+3781,Text Production
+3782,Text Production
+3783,Text Production
+3784,Text Production
+3785,Text Production
+3786,Text Production
+3787,Text Production
+3788,Text Production
+3789,Text Production
+3790,Text Production
+3791,Text Production
+3792,Text Production
+3793,Text Production
+3794,Text Production
+3795,Text Production
+3796,Text Production
+3797,Text Production
+3798,Text Production
+3799,Text Production
+3800,Text Production
+3801,Text Production
+3802,Text Production
+3803,Text Production
+3804,Text Production
+3805,Text Production
+3806,Text Production
+3807,Text Production
+3808,Text Production
+3809,Text Production
+3810,Text Production
+3811,Text Production
+3812,Text Production
+3813,Text Production
+3814,Text Production
+3815,Text Production
+3816,Clarity
+3817,Clarity
+3818,Clarity
+3819,Clarity
+3820,Clarity
+3821,Clarity
+3822,Clarity
+3823,Clarity
+3824,Clarity
+3825,Clarity
+3826,Clarity
+3827,Clarity
+3828,Clarity
+3829,Clarity
+3830,Clarity
+3831,Clarity
+3832,Clarity
+3833,Clarity
+3834,Clarity
+3835,Clarity
+3836,Clarity
+3837,Clarity
+3838,Clarity
+3839,Clarity
+3840,Clarity
+3841,Clarity
+3842,Clarity
+3843,Clarity
+3844,Clarity
+3845,Clarity
+3846,Clarity
+3847,Clarity
+3848,Clarity
+3849,Clarity
+3850,Fluency
+3851,Clarity
+3852,Clarity
+3853,Clarity
+3854,Clarity
+3855,Clarity
+3856,Clarity
+3857,Clarity
+3858,Clarity
+3859,Clarity
+3860,Clarity
+3861,Clarity
+3862,Clarity
+3863,Clarity
+3864,Text Production
+3865,Text Production
+3866,Text Production
+3867,Text Production
+3868,Text Production
+3869,Text Production
+3870,Text Production
+3871,Text Production
+3872,Text Production
+3873,Text Production
+3874,Text Production
+3875,Text Production
+3876,Text Production
+3877,Text Production
+3878,Text Production
+3879,Text Production
+3880,Text Production
+3881,Text Production
+3882,Text Production
+3883,Text Production
+3884,Text Production
+3885,Text Production
+3886,Text Production
+3887,Clarity
+3888,Clarity
+3889,Clarity
+3890,Clarity
+3891,Clarity
+3892,Clarity
+3893,Clarity
+3894,Text Production
+3895,Text Production
+3896,Text Production
+3897,Text Production
+3898,Text Production
+3899,Text Production
+3900,Text Production
+3901,Text Production
+3902,Text Production
+3903,Text Production
+3904,Text Production
+3905,Structural
+3906,Structural
+3907,Text Production
+3908,Text Production
+3909,Text Production
+3910,Text Production
+3911,Text Production
+3912,Text Production
+3913,Text Production
+3914,Text Production
+3915,Text Production
+3916,Text Production
+3917,Text Production
+3918,Text Production
+3919,Text Production
+3920,Text Production
+3921,Text Production
+3922,Text Production
+3923,Text Production
+3924,Text Production
+3925,Text Production
+3926,Text Production
+3927,Text Production
+3928,Text Production
+3929,Text Production
+3930,Text Production
+3931,Text Production
+3932,Text Production
+3933,Text Production
+3934,Text Production
+3935,Text Production
+3936,Text Production
+3937,Text Production
+3938,Text Production
+3939,Text Production
+3940,Text Production
+3941,Text Production
+3942,Text Production
+3943,Text Production
+3944,Text Production
+3945,Text Production
+3946,Text Production
+3947,Text Production
+3948,Structural
+3949,Structural
+3950,Text Production
+3951,Text Production
+3952,Text Production
+3953,Text Production
+3954,Text Production
+3955,Text Production
+3956,Text Production
+3957,Text Production
+3958,Text Production
+3959,Text Production
+3960,Text Production
+3961,Text Production
+3962,Text Production
+3963,Text Production
+3964,Text Production
+3965,Text Production
+3966,Text Production
+3967,Text Production
+3968,Structural
+3969,Fluency
+3970,Fluency
+3971,Text Production
+3972,Text Production
+3973,Text Production
+3974,Text Production
+3975,Text Production
+3976,Text Production
+3977,Text Production
+3978,Text Production
+3979,Text Production
+3980,Text Production
+3981,Text Production
+3982,Text Production
+3983,Text Production
+3984,Text Production
+3985,Text Production
+3986,Text Production
+3987,Text Production
+3988,Text Production
+3989,Text Production
+3990,Text Production
+3991,Text Production
+3992,Text Production
+3993,Text Production
+3994,Text Production
+3995,Text Production
+3996,Text Production
+3997,Text Production
+3998,Text Production
+3999,Text Production
+4000,Text Production
+4001,Text Production
+4002,Linguistic Style
+4003,Linguistic Style
+4004,Text Production
+4005,Text Production
+4006,Text Production
+4007,Text Production
+4008,Text Production
+4009,Clarity
+4010,Clarity
+4011,Clarity
+4012,Clarity
+4013,Clarity
+4014,Clarity
+4015,Clarity
+4016,Clarity
+4017,Clarity
+4018,Clarity
+4019,Clarity
+4020,Clarity
+4021,Clarity
+4022,Clarity
+4023,Clarity
+4024,Clarity
+4025,Clarity
+4026,Clarity
+4027,Clarity
+4028,Clarity
+4029,Clarity
+4030,Clarity
+4031,Clarity
+4032,Clarity
+4033,Clarity
+4034,Clarity
+4035,Clarity
+4036,Clarity
+4037,Clarity
+4038,Clarity
+4039,Clarity
+4040,Clarity
+4041,Clarity
+4042,Linguistic Style
+4043,Clarity
+4044,Clarity
+4045,Clarity
+4046,Clarity
+4047,Clarity
+4048,Citation Integration
+4049,Citation Integration
+4050,Citation Integration
+4051,Clarity
+4052,Clarity
+4053,Clarity
+4054,Text Production
+4055,Text Production
+4056,Text Production
+4057,Text Production
+4058,Text Production
+4059,Text Production
+4060,Text Production
+4061,Text Production
+4062,Text Production
+4063,Text Production
+4064,Text Production
+4065,Text Production
+4066,Text Production
+4067,Text Production
+4068,Text Production
+4069,Text Production
+4070,Text Production
+4071,Text Production
+4072,Text Production
+4073,Text Production
+4074,Text Production
+4075,Clarity
+4076,Clarity
+4077,Clarity
+4078,Clarity
+4079,Clarity
+4080,Clarity
+4081,Clarity
+4082,Clarity
+4083,Clarity
+4084,Clarity
+4085,Clarity
+4086,Clarity
+4087,Clarity
+4088,Clarity
+4089,Clarity
+4090,Clarity
+4091,Clarity
+4092,Clarity
+4093,Clarity
+4094,Clarity
+4095,Clarity
+4096,Clarity
+4097,Clarity
+4098,Clarity
+4099,Clarity
+4100,Clarity
+4101,Clarity
+4102,Clarity
+4103,Clarity
+4104,Clarity
+4105,Clarity
+4106,Text Production
+4107,Text Production
+4108,Text Production
+4109,Text Production
+4110,Text Production
+4111,Text Production
+4112,Text Production
+4113,Text Production
+4114,Text Production
+4115,Text Production
+4116,Text Production
+4117,Text Production
+4118,Text Production
+4119,Text Production
+4120,Text Production
+4121,Text Production
+4122,Text Production
+4123,Text Production
+4124,Text Production
+4125,Text Production
+4126,Text Production
+4127,Text Production
+4128,Text Production
+4129,Text Production
+4130,Text Production
+4131,Text Production
+4132,Text Production
+4133,Text Production
+4134,Text Production
+4135,Text Production
+4136,Text Production
+4137,Text Production
+4138,Text Production
+4139,Text Production
+4140,Text Production
+4141,Text Production
+4142,Text Production
+4143,Text Production
+4144,Text Production
+4145,Text Production
+4146,Text Production
+4147,Text Production
+4148,Clarity
+4149,Clarity
+4150,Clarity
+4151,Clarity
+4152,Clarity
+4153,Clarity
+4154,Clarity
+4155,Clarity
+4156,Clarity
+4157,Clarity
+4158,Clarity
+4159,Clarity
+4160,Clarity
+4161,Clarity
+4162,Clarity
+4163,Clarity
+4164,Text Production
+4165,Text Production
+4166,Text Production
+4167,Text Production
+4168,Text Production
+4169,Text Production
+4170,Text Production
+4171,Text Production
+4172,Text Production
+4173,Text Production
+4174,Text Production
+4175,Text Production
+4176,Text Production
+4177,Text Production
+4178,Text Production
+4179,Text Production
+4180,Text Production
+4181,Text Production
+4182,Text Production
+4183,Text Production
+4184,Text Production
+4185,Text Production
+4186,Text Production
+4187,Text Production
+4188,Text Production
+4189,Text Production
+4190,Text Production
+4191,Text Production
+4192,Text Production
+4193,Text Production
+4194,Text Production
+4195,Text Production
+4196,Text Production
+4197,Text Production
+4198,Text Production
+4199,Text Production
+4200,Text Production
+4201,Text Production
+4202,Text Production
+4203,Text Production
+4204,Text Production
+4205,Text Production
+4206,Text Production
+4207,Text Production
+4208,Text Production
+4209,Text Production
+4210,Text Production
+4211,Text Production
+4212,Text Production
+4213,Text Production
+4214,Text Production
+4215,Text Production
+4216,Text Production
+4217,Text Production
+4218,Text Production
+4219,Text Production
+4220,Text Production
+4221,Text Production
+4222,Text Production
+4223,Text Production
+4224,Text Production
+4225,Text Production
+4226,Text Production
+4227,Text Production
+4228,Text Production
+4229,Text Production
+4230,Text Production
+4231,Text Production
+4232,Text Production
+4233,Text Production
+4234,Text Production
+4235,Text Production
+4236,Text Production
+4237,Structural
+4238,Text Production
+4239,Structural
+4240,Clarity
+4241,Clarity
+4242,Clarity
+4243,Clarity
+4244,Clarity
+4245,Clarity
+4246,Clarity
+4247,Clarity
+4248,Clarity
+4249,Clarity
+4250,Clarity
+4251,Clarity
+4252,Coherence
+4253,Coherence
+4254,Text Production
+4255,Coherence
+4256,Text Production
+4257,Text Production
+4258,Text Production
+4259,Text Production
+4260,Text Production
+4261,Text Production
+4262,Text Production
+4263,Text Production
+4264,Text Production
+4265,Text Production
+4266,Text Production
+4267,Text Production
+4268,Text Production
+4269,Text Production
+4270,Text Production
+4271,Text Production
+4272,Text Production
+4273,Text Production
+4274,Text Production
+4275,Text Production
+4276,Text Production
+4277,Text Production
+4278,Text Production
+4279,Text Production
+4280,Text Production
+4281,Text Production
+4282,Text Production
+4283,Text Production
+4284,Text Production
+4285,Text Production
+4286,Text Production
+4287,Text Production
+4288,Text Production
+4289,Text Production
+4290,Text Production
+4291,Text Production
+4292,Text Production
+4293,Text Production
+4294,Text Production
+4295,Text Production
+4296,Text Production
+4297,Text Production
+4298,Text Production
+4299,Text Production
+4300,Text Production
+4301,Text Production
+4302,Text Production
+4303,Text Production
+4304,Text Production
+4305,Text Production
+4306,Text Production
+4307,Text Production
+4308,Text Production
+4309,Text Production
+4310,Text Production
+4311,Text Production
+4312,Text Production
+4313,Text Production
+4314,Text Production
+4315,Text Production
+4316,Text Production
+4317,Text Production
+4318,Text Production
+4319,Text Production
+4320,Text Production
+4321,Text Production
+4322,Text Production
+4323,Text Production
+4324,Text Production
+4325,Text Production
+4326,Text Production
+4327,Text Production
+4328,Text Production
+4329,Text Production
+4330,Text Production
+4331,Text Production
+4332,Text Production
+4333,Text Production
+4334,Text Production
+4335,Text Production
+4336,Text Production
+4337,Text Production
+4338,Text Production
+4339,Text Production
+4340,Text Production
+4341,Text Production
+4342,Text Production
+4343,Text Production
+4344,Text Production
+4345,Text Production
+4346,Text Production
+4347,Text Production
+4348,Text Production
+4349,Text Production
+4350,Text Production
+4351,Text Production
+4352,Text Production
+4353,Text Production
+4354,Text Production
+4355,Text Production
+4356,Text Production
+4357,Text Production
+4358,Text Production
+4359,Text Production
+4360,Text Production
+4361,Text Production
+4362,Text Production
+4363,Text Production
+4364,Text Production
+4365,Text Production
+4366,Text Production
+4367,Text Production
+4368,Text Production
+4369,Text Production
+4370,Text Production
+4371,Text Production
+4372,Text Production
+4373,Text Production
+4374,Text Production
+4375,Text Production
+4376,Text Production
+4377,Text Production
+4378,Text Production
+4379,Text Production
+4380,Text Production
+4381,Text Production
+4382,Text Production
+4383,Text Production
+4384,Text Production
+4385,Text Production
+4386,Text Production
+4387,Text Production
+4388,Text Production
+4389,Text Production
+4390,Text Production
+4391,Text Production
+4392,Text Production
+4393,Text Production
+4394,Text Production
+4395,Text Production
+4396,Text Production
+4397,Coherence
+4398,Text Production
+4399,Text Production
+4400,Text Production
+4401,Text Production
+4402,Text Production
+4403,Text Production
+4404,Text Production
+4405,Text Production
+4406,Text Production
+4407,Text Production
+4408,Text Production
+4409,Text Production
+4410,Text Production
+4411,Text Production
+4412,Text Production
+4413,Text Production
+4414,Text Production
+4415,Text Production
+4416,Text Production
+4417,Text Production
+4418,Text Production
+4419,Text Production
+4420,Text Production
+4421,Text Production
+4422,Text Production
+4423,Text Production
+4424,Clarity
+4425,Clarity
+4426,Clarity
+4427,Clarity
+4428,Clarity
+4429,Clarity
+4430,Clarity
+4431,Clarity
+4432,Clarity
+4433,Clarity
+4434,Clarity
+4435,Clarity
+4436,Clarity
+4437,Clarity
+4438,Clarity
+4439,Clarity
+4440,Clarity
+4441,Clarity
+4442,Clarity
+4443,Clarity
+4444,Clarity
+4445,Clarity
+4446,Clarity
+4447,Clarity
+4448,Clarity
+4449,Clarity
+4450,Clarity
+4451,Clarity
+4452,Clarity
+4453,Clarity
+4454,Clarity
+4455,Clarity
+4456,Clarity
+4457,Clarity
+4458,Clarity
+4459,Clarity
+4460,Clarity
+4461,Clarity
+4462,Clarity
+4463,Clarity
+4464,Clarity
+4465,Clarity
+4466,Clarity
+4467,Clarity
+4468,Clarity
+4469,Clarity
+4470,Clarity
+4471,Clarity
+4472,Clarity
+4473,Clarity
+4474,Clarity
+4475,Clarity
+4476,Clarity
+4477,Clarity
+4478,Clarity
+4479,Clarity
+4480,Clarity
+4481,Clarity
+4482,Clarity
+4483,Clarity
+4484,Clarity
+4485,Clarity
+4486,Clarity
+4487,Clarity
+4488,Clarity
+4489,Clarity
+4490,Clarity
+4491,Structural
+4492,Coherence
+4493,Coherence
+4494,Coherence
+4495,Text Production
+4496,Text Production
+4497,Text Production
+4498,Text Production
+4499,Text Production
+4500,Text Production
+4501,Text Production
+4502,Text Production
+4503,Text Production
+4504,Text Production
+4505,Text Production
+4506,Text Production
+4507,Text Production
+4508,Text Production
+4509,Text Production
+4510,Text Production
+4511,Text Production
+4512,Text Production
+4513,Text Production
+4514,Text Production
+4515,Text Production
+4516,Text Production
+4517,Text Production
+4518,Text Production
+4519,Text Production
+4520,Clarity
+4521,Clarity
+4522,Clarity
+4523,Clarity
+4524,Clarity
+4525,Clarity
+4526,Clarity
+4527,Clarity
+4528,Clarity
+4529,Clarity
+4530,Clarity
+4531,Clarity
+4532,Clarity
+4533,Clarity
+4534,Clarity
+4535,Text Production
+4536,Text Production
+4537,Text Production
+4538,Coherence
+4539,Visual Formatting
+4540,Visual Formatting
+4541,Visual Formatting
+4542,Visual Formatting
+4543,Clarity
+4544,Clarity
+4545,Clarity
+4546,Clarity
+4547,Coherence
+4548,Coherence
+4549,Coherence
+4550,Coherence
+4551,Coherence
+4552,Coherence
+4553,Coherence
+4554,Coherence
+4555,Coherence
+4556,Coherence
+4557,Coherence
+4558,Coherence
+4559,Linguistic Style
+4560,Object Insertion
+4561,Object Insertion
+4562,Object Insertion
+4563,Text Production
+4564,Text Production
+4565,Text Production
+4566,Text Production
+4567,Text Production
+4568,Text Production
+4569,Text Production
+4570,Text Production
+4571,Text Production
+4572,Cross-reference
+4573,Cross-reference
+4574,Coherence
+4575,Text Production
+4576,Object Insertion
+4577,Linguistic Style
+4578,Linguistic Style
+4579,Clarity
+4580,Clarity
+4581,Clarity
+4582,Clarity
+4583,Fluency
+4584,Clarity
+4585,Clarity
+4586,Clarity
+4587,Clarity
+4588,Clarity
+4589,Clarity
+4590,Clarity
+4591,Clarity
+4592,Clarity
+4593,Clarity
+4594,Clarity
+4595,Clarity
+4596,Clarity
+4597,Clarity
+4598,Clarity
+4599,Clarity
+4600,Text Production
+4601,Text Production
+4602,Text Production
+4603,Text Production
+4604,Text Production
+4605,Text Production
+4606,Text Production
+4607,Text Production
+4608,Text Production
+4609,Text Production
+4610,Text Production
+4611,Text Production
+4612,Text Production
+4613,Text Production
+4614,Text Production
+4615,Text Production
+4616,Text Production
+4617,Text Production
+4618,Text Production
+4619,Text Production
+4620,Text Production
+4621,Text Production
+4622,Text Production
+4623,Text Production
+4624,Text Production
+4625,Clarity
+4626,Clarity
+4627,Clarity
+4628,Coherence
+4629,Text Production
+4630,Text Production
+4631,Text Production
+4632,Text Production
+4633,Text Production
+4634,Text Production
+4635,Text Production
+4636,Text Production
+4637,Text Production
+4638,Text Production
+4639,Text Production
+4640,Text Production
+4641,Text Production
+4642,Text Production
+4643,Text Production
+4644,Text Production
+4645,Text Production
+4646,Text Production
+4647,Text Production
+4648,Text Production
+4649,Text Production
+4650,Text Production
+4651,Text Production
+4652,Text Production
+4653,Text Production
+4654,Text Production
+4655,Text Production
+4656,Text Production
+4657,Text Production
+4658,Text Production
+4659,Structural
+4660,Structural
+4661,Structural
+4662,Structural
+4663,Coherence
+4664,Clarity
+4665,Clarity
+4666,Clarity
+4667,Clarity
+4668,Clarity
+4669,Clarity
+4670,Clarity
+4671,Clarity
+4672,Clarity
+4673,Clarity
+4674,Clarity
+4675,Clarity
+4676,Clarity
+4677,Clarity
+4678,Clarity
+4679,Clarity
+4680,Clarity
+4681,Clarity
+4682,Clarity
+4683,Clarity
+4684,Clarity
+4685,Clarity
+4686,Clarity
+4687,Clarity
+4688,Clarity
+4689,Clarity
+4690,Clarity
+4691,Clarity
+4692,Clarity
+4693,Clarity
+4694,Clarity
+4695,Clarity
+4696,Clarity
+4697,Clarity
+4698,Clarity
+4699,Clarity
+4700,Clarity
+4701,Clarity
+4702,Clarity
+4703,Text Production
+4704,Text Production
+4705,Text Production
+4706,Text Production
+4707,Text Production
+4708,Text Production
+4709,Text Production
+4710,Text Production
+4711,Text Production
+4712,Text Production
+4713,Text Production
+4714,Text Production
+4715,Text Production
+4716,Text Production
+4717,Text Production
+4718,Text Production
+4719,Text Production
+4720,Text Production
+4721,Text Production
+4722,Text Production
+4723,Text Production
+4724,Text Production
+4725,Text Production
+4726,Text Production
+4727,Text Production
+4728,Text Production
+4729,Text Production
+4730,Text Production
+4731,Text Production
+4732,Text Production
+4733,Text Production
+4734,Text Production
+4735,Text Production
+4736,Text Production
+4737,Text Production
+4738,Text Production
+4739,Text Production
+4740,Text Production
+4741,Text Production
+4742,Text Production
+4743,Fluency
+4744,Text Production
+4745,Text Production
+4746,Text Production
+4747,Text Production
+4748,Text Production
+4749,Text Production
+4750,Text Production
+4751,Text Production
+4752,Text Production
+4753,Text Production
+4754,Text Production
+4755,Text Production
+4756,Text Production
+4757,Text Production
+4758,Text Production
+4759,Text Production
+4760,Text Production
+4761,Text Production
+4762,Text Production
+4763,Text Production
+4764,Text Production
+4765,Text Production
+4766,Text Production
+4767,Text Production
+4768,Text Production
+4769,Text Production
+4770,Text Production
+4771,Text Production
+4772,Text Production
+4773,Text Production
+4774,Text Production
+4775,Text Production
+4776,Text Production
+4777,Text Production
+4778,Text Production
+4779,Text Production
+4780,Text Production
+4781,Text Production
+4782,Text Production
+4783,Text Production
+4784,Text Production
+4785,Text Production
+4786,Text Production
+4787,Text Production
+4788,Text Production
+4789,Structural
+4790,Structural
+4791,Section Planning
+4792,Section Planning
+4793,Section Planning
+4794,Section Planning
+4795,Section Planning
+4796,Clarity
+4797,Object Insertion
+4798,Text Production
+4799,Text Production
+4800,Text Production
+4801,Text Production
+4802,Text Production
+4803,Clarity
+4804,Text Production
+4805,Clarity
+4806,Clarity
+4807,Clarity
+4808,Clarity
+4809,Clarity
+4810,Clarity
+4811,Clarity
+4812,Clarity
+4813,Clarity
+4814,Clarity
+4815,Coherence
+4816,Text Production
+4817,Text Production
+4818,Text Production
+4819,Text Production
+4820,Text Production
+4821,Text Production
+4822,Text Production
+4823,Text Production
+4824,Text Production
+4825,Text Production
+4826,Text Production
+4827,Text Production
+4828,Text Production
+4829,Text Production
+4830,Text Production
+4831,Text Production
+4832,Section Planning
+4833,Section Planning
+4834,Text Production
+4835,Text Production
+4836,Text Production
+4837,Text Production
+4838,Text Production
+4839,Text Production
+4840,Text Production
+4841,Text Production
+4842,Text Production
+4843,Text Production
+4844,Text Production
+4845,Text Production
+4846,Text Production
+4847,Text Production
+4848,Section Planning
+4849,Section Planning
+4850,Section Planning
+4851,Section Planning
+4852,Section Planning
+4853,Text Production
+4854,Text Production
+4855,Text Production
+4856,Text Production
+4857,Text Production
+4858,Text Production
+4859,Text Production
+4860,Text Production
+4861,Text Production
+4862,Text Production
+4863,Text Production
+4864,Text Production
+4865,Text Production
+4866,Text Production
+4867,Text Production
+4868,Text Production
+4869,Text Production
+4870,Text Production
+4871,Text Production
+4872,Text Production
+4873,Text Production
+4874,Text Production
+4875,Text Production
+4876,Text Production
+4877,Text Production
+4878,Text Production
+4879,Text Production
+4880,Text Production
+4881,Text Production
+4882,Text Production
+4883,Text Production
+4884,Text Production
+4885,Text Production
+4886,Text Production
+4887,Text Production
+4888,Text Production
+4889,Text Production
+4890,Text Production
+4891,Text Production
+4892,Text Production
+4893,Text Production
+4894,Text Production
+4895,Text Production
+4896,Text Production
+4897,Text Production
+4898,Text Production
+4899,Text Production
+4900,Text Production
+4901,Text Production
+4902,Text Production
+4903,Text Production
+4904,Text Production
+4905,Text Production
+4906,Text Production
+4907,Text Production
+4908,Text Production
+4909,Text Production
+4910,Text Production
+4911,Text Production
+4912,Text Production
+4913,Text Production
+4914,Text Production
+4915,Text Production
+4916,Text Production
+4917,Text Production
+4918,Text Production
+4919,Text Production
+4920,Text Production
+4921,Text Production
+4922,Text Production
+4923,Text Production
+4924,Text Production
+4925,Text Production
+4926,Text Production
+4927,Text Production
+4928,Text Production
+4929,Text Production
+4930,Text Production
+4931,Text Production
+4932,Text Production
+4933,Text Production
+4934,Text Production
+4935,Object Insertion
+4936,Visual Formatting
+4937,Linguistic Style
+4938,Linguistic Style
+4939,Fluency
+4940,Fluency
+4941,Fluency
+4942,Section Planning
+4943,Section Planning
+4944,Section Planning
+4945,Section Planning
+4946,Section Planning
+4947,Section Planning
+4948,Text Production
+4949,Section Planning
+4950,Text Production
+4951,Text Production
+4952,Text Production
+4953,Text Production
+4954,Text Production
+4955,Text Production
+4956,Text Production
+4957,Text Production
+4958,Structural
+4959,Structural
+4960,Structural
+4961,Text Production
+4962,Text Production
+4963,Text Production
+4964,Text Production
+4965,Text Production
+4966,Text Production
+4967,Text Production
+4968,Text Production
+4969,Text Production
+4970,Text Production
+4971,Text Production
+4972,Text Production
+4973,Text Production
+4974,Text Production
+4975,Text Production
+4976,Text Production
+4977,Text Production
+4978,Text Production
+4979,Text Production
+4980,Text Production
+4981,Text Production
+4982,Text Production
+4983,Text Production
+4984,Text Production
+4985,Text Production
+4986,Text Production
+4987,Text Production
+4988,Text Production
+4989,Text Production
+4990,Text Production
+4991,Text Production
+4992,Text Production
+4993,Text Production
+4994,Text Production
+4995,Text Production
+4996,Text Production
+4997,Text Production
+4998,Text Production
+4999,Text Production
+5000,Text Production
+5001,Text Production
+5002,Text Production
+5003,Text Production
+5004,Text Production
+5005,Text Production
+5006,Text Production
+5007,Text Production
+5008,Text Production
+5009,Text Production
+5010,Text Production
+5011,Text Production
+5012,Text Production
+5013,Text Production
+5014,Text Production
+5015,Text Production
+5016,Text Production
+5017,Text Production
+5018,Text Production
+5019,Text Production
+5020,Text Production
+5021,Text Production
+5022,Text Production
+5023,Text Production
+5024,Text Production
+5025,Text Production
+5026,Text Production
+5027,Text Production
+5028,Text Production
+5029,Text Production
+5030,Text Production
+5031,Text Production
+5032,Text Production
+5033,Text Production
+5034,Text Production
+5035,Text Production
+5036,Text Production
+5037,Text Production
+5038,Text Production
+5039,Text Production
+5040,Text Production
+5041,Text Production
+5042,Text Production
+5043,Text Production
+5044,Text Production
+5045,Text Production
+5046,Text Production
+5047,Text Production
+5048,Text Production
+5049,Text Production
+5050,Text Production
+5051,Clarity
+5052,Clarity
+5053,Clarity
+5054,Clarity
+5055,Clarity
+5056,Clarity
+5057,Clarity
+5058,Clarity
+5059,Clarity
+5060,Clarity
+5061,Text Production
+5062,Text Production
+5063,Text Production
+5064,Text Production
+5065,Text Production
+5066,Text Production
+5067,Text Production
+5068,Text Production
+5069,Text Production
+5070,Text Production
+5071,Text Production
+5072,Text Production
+5073,Text Production
+5074,Section Planning
+5075,Clarity
+5076,Clarity
+5077,Clarity
+5078,Clarity
+5079,Clarity
+5080,Clarity
+5081,Clarity
+5082,Clarity
+5083,Cross-reference
+5084,Cross-reference
+5085,Cross-reference
+5086,Cross-reference
+5087,Visual Formatting
+5088,Structural
+5089,Structural
+5090,Structural
+5091,Text Production
+5092,Text Production
+5093,Text Production
+5094,Text Production
+5095,Text Production
+5096,Text Production
+5097,Text Production
+5098,Text Production
+5099,Text Production
+5100,Text Production
+5101,Text Production
+5102,Text Production
+5103,Text Production
+5104,Text Production
+5105,Text Production
+5106,Text Production
+5107,Text Production
+5108,Text Production
+5109,Text Production
+5110,Text Production
+5111,Text Production
+5112,Section Planning
+5113,Section Planning
+5114,Section Planning
+5115,Section Planning
+5116,Section Planning
+5117,Clarity
+5118,Clarity
+5119,Clarity
+5120,Clarity
+5121,Clarity
+5122,Clarity
+5123,Clarity
+5124,Clarity
+5125,Clarity
+5126,Clarity
+5127,Clarity
+5128,Clarity
+5129,Clarity
+5130,Clarity
+5131,Clarity
+5132,Clarity
+5133,Clarity
+5134,Clarity
+5135,Clarity
+5136,Clarity
+5137,Clarity
+5138,Clarity
+5139,Clarity
+5140,Clarity
+5141,Clarity
+5142,Clarity
+5143,Clarity
+5144,Clarity
+5145,Clarity
+5146,Object Insertion
+5147,Object Insertion
+5148,Section Planning
+5149,Section Planning
+5150,Section Planning
+5151,Section Planning
+5152,Section Planning
+5153,Clarity
+5154,Clarity
+5155,Clarity
+5156,Clarity
+5157,Clarity
+5158,Clarity
+5159,Clarity
+5160,Clarity
+5161,Clarity
+5162,Clarity
+5163,Clarity
+5164,Clarity
+5165,Text Production
+5166,Text Production
+5167,Text Production
+5168,Text Production
+5169,Text Production
+5170,Text Production
+5171,Text Production
+5172,Text Production
+5173,Text Production
+5174,Text Production
+5175,Text Production
+5176,Text Production
+5177,Text Production
+5178,Text Production
+5179,Text Production
+5180,Text Production
+5181,Text Production
+5182,Text Production
+5183,Text Production
+5184,Text Production
+5185,Text Production
+5186,Text Production
+5187,Text Production
+5188,Text Production
+5189,Text Production
+5190,Text Production
+5191,Text Production
+5192,Text Production
+5193,Text Production
+5194,Text Production
+5195,Text Production
+5196,Text Production
+5197,Text Production
+5198,Text Production
+5199,Text Production
+5200,Text Production
+5201,Text Production
+5202,Text Production
+5203,Text Production
+5204,Text Production
+5205,Text Production
+5206,Text Production
+5207,Text Production
+5208,Text Production
+5209,Text Production
+5210,Text Production
+5211,Text Production
+5212,Text Production
+5213,Text Production
+5214,Text Production
+5215,Text Production
+5216,Text Production
+5217,Text Production
+5218,Text Production
+5219,Text Production
+5220,Text Production
+5221,Text Production
+5222,Text Production
+5223,Text Production
+5224,Text Production
+5225,Text Production
+5226,Text Production
+5227,Text Production
+5228,Text Production
+5229,Text Production
+5230,Text Production
+5231,Text Production
+5232,Text Production
+5233,Text Production
+5234,Text Production
+5235,Text Production
+5236,Text Production
+5237,Text Production
+5238,Text Production
+5239,Text Production
+5240,Text Production
+5241,Text Production
+5242,Cross-reference
+5243,Cross-reference
+5244,Section Planning
+5245,Section Planning
+5246,Section Planning
+5247,Section Planning
+5248,Text Production
+5249,Text Production
+5250,Text Production
+5251,Text Production
+5252,Text Production
+5253,Text Production
+5254,Text Production
+5255,Text Production
+5256,Text Production
+5257,Text Production
+5258,Text Production
+5259,Text Production
+5260,Text Production
+5261,Text Production
+5262,Text Production
+5263,Text Production
+5264,Text Production
+5265,Text Production
+5266,Text Production
+5267,Text Production
+5268,Text Production
+5269,Text Production
+5270,Text Production
+5271,Text Production
+5272,Text Production
+5273,Text Production
+5274,Text Production
+5275,Text Production
+5276,Text Production
+5277,Text Production
+5278,Text Production
+5279,Text Production
+5280,Text Production
+5281,Object Insertion
+5282,Object Insertion
+5283,Object Insertion
+5284,Object Insertion
+5285,Object Insertion
+5286,Text Production
+5287,Text Production
+5288,Text Production
+5289,Text Production
+5290,Text Production
+5291,Text Production
+5292,Text Production
+5293,Text Production
+5294,Text Production
+5295,Text Production
+5296,Text Production
+5297,Text Production
+5298,Text Production
+5299,Text Production
+5300,Text Production
+5301,Text Production
+5302,Text Production
+5303,Text Production
+5304,Text Production
+5305,Text Production
+5306,Text Production
+5307,Text Production
+5308,Text Production
+5309,Text Production
+5310,Text Production
+5311,Text Production
+5312,Text Production
+5313,Text Production
+5314,Text Production
+5315,Text Production
+5316,Text Production
+5317,Text Production
+5318,Text Production
+5319,Text Production
+5320,Text Production
+5321,Text Production
+5322,Text Production
+5323,Text Production
+5324,Text Production
+5325,Text Production
+5326,Text Production
+5327,Text Production
+5328,Text Production
+5329,Text Production
+5330,Text Production
+5331,Text Production
+5332,Text Production
+5333,Text Production
+5334,Text Production
+5335,Text Production
+5336,Text Production
+5337,Text Production
+5338,Text Production
+5339,Text Production
+5340,Text Production
+5341,Text Production
+5342,Text Production
+5343,Text Production
+5344,Text Production
+5345,Text Production
+5346,Text Production
+5347,Text Production
+5348,Text Production
+5349,Text Production
+5350,Text Production
+5351,Text Production
+5352,Text Production
+5353,Text Production
+5354,Text Production
+5355,Text Production
+5356,Text Production
+5357,Text Production
+5358,Text Production
+5359,Text Production
+5360,Text Production
+5361,Text Production
+5362,Text Production
+5363,Text Production
+5364,Text Production
+5365,Text Production
+5366,Text Production
+5367,Text Production
+5368,Text Production
+5369,Text Production
+5370,Text Production
+5371,Text Production
+5372,Text Production
+5373,Text Production
+5374,Text Production
+5375,Text Production
+5376,Text Production
+5377,Text Production
+5378,Text Production
+5379,Text Production
+5380,Text Production
+5381,Text Production
+5382,Text Production
+5383,Text Production
+5384,Text Production
+5385,Text Production
+5386,Text Production
+5387,Text Production
+5388,Text Production
+5389,Text Production
+5390,Text Production
+5391,Text Production
+5392,Text Production
+5393,Text Production
+5394,Text Production
+5395,Text Production
+5396,Text Production
+5397,Text Production
+5398,Text Production
+5399,Text Production
+5400,Text Production
+5401,Text Production
+5402,Text Production
+5403,Text Production
+5404,Text Production
+5405,Text Production
+5406,Text Production
+5407,Text Production
+5408,Text Production
+5409,Text Production
+5410,Text Production
+5411,Text Production
+5412,Text Production
+5413,Text Production
+5414,Text Production
+5415,Text Production
+5416,Text Production
+5417,Text Production
+5418,Text Production
+5419,Text Production
+5420,Text Production
+5421,Text Production
+5422,Text Production
+5423,Text Production
+5424,Text Production
+5425,Text Production
+5426,Text Production
+5427,Text Production
+5428,Text Production
+5429,Text Production
+5430,Text Production
+5431,Text Production
+5432,Text Production
+5433,Text Production
+5434,Text Production
+5435,Text Production
+5436,Text Production
+5437,Text Production
+5438,Text Production
+5439,Text Production
+5440,Text Production
+5441,Text Production
+5442,Text Production
+5443,Text Production
+5444,Text Production
+5445,Text Production
+5446,Text Production
+5447,Text Production
+5448,Text Production
+5449,Text Production
+5450,Text Production
+5451,Text Production
+5452,Text Production
+5453,Text Production
+5454,Text Production
+5455,Text Production
+5456,Text Production
+5457,Text Production
+5458,Text Production
+5459,Text Production
+5460,Text Production
+5461,Text Production
+5462,Text Production
+5463,Text Production
+5464,Text Production
+5465,Text Production
+5466,Text Production
+5467,Text Production
+5468,Text Production
+5469,Text Production
+5470,Text Production
+5471,Text Production
+5472,Text Production
+5473,Text Production
+5474,Text Production
+5475,Text Production
+5476,Text Production
+5477,Text Production
+5478,Text Production
+5479,Text Production
+5480,Text Production
+5481,Text Production
+5482,Text Production
+5483,Text Production
+5484,Text Production
+5485,Text Production
+5486,Text Production
+5487,Text Production
+5488,Text Production
+5489,Text Production
+5490,Text Production
+5491,Text Production
+5492,Text Production
+5493,Text Production
+5494,Text Production
+5495,Text Production
+5496,Text Production
+5497,Text Production
+5498,Text Production
+5499,Text Production
+5500,Text Production
+5501,Text Production
+5502,Text Production
+5503,Text Production
+5504,Text Production
+5505,Text Production
+5506,Text Production
+5507,Text Production
+5508,Text Production
+5509,Text Production
+5510,Text Production
+5511,Text Production
+5512,Text Production
+5513,Text Production
+5514,Text Production
+5515,Text Production
+5516,Text Production
+5517,Text Production
+5518,Text Production
+5519,Text Production
+5520,Text Production
+5521,Text Production
+5522,Text Production
+5523,Text Production
+5524,Text Production
+5525,Text Production
+5526,Text Production
+5527,Text Production
+5528,Text Production
+5529,Text Production
+5530,Text Production
+5531,Text Production
+5532,Text Production
+5533,Text Production
+5534,Text Production
+5535,Coherence
+5536,Text Production
+5537,Text Production
+5538,Text Production
+5539,Text Production
+5540,Text Production
+5541,Text Production
+5542,Text Production
+5543,Text Production
+5544,Text Production
+5545,Text Production
+5546,Text Production
+5547,Text Production
+5548,Section Planning
+5549,Section Planning
+5550,Section Planning
+5551,Section Planning
+5552,Section Planning
+5553,Section Planning
+5554,Section Planning
+5555,Section Planning
+5556,Section Planning
+5557,Section Planning
+5558,Section Planning
+5559,Section Planning
+5560,Section Planning
+5561,Text Production
+5562,Text Production
+5563,Text Production
+5564,Text Production
+5565,Text Production
+5566,Text Production
+5567,Text Production
+5568,Text Production
+5569,Text Production
+5570,Text Production
+5571,Text Production
+5572,Text Production
+5573,Text Production
+5574,Text Production
+5575,Text Production
+5576,Text Production
+5577,Text Production
+5578,Text Production
+5579,Text Production
+5580,Text Production
+5581,Text Production
+5582,Text Production
+5583,Text Production
+5584,Text Production
+5585,Text Production
+5586,Text Production
+5587,Text Production
+5588,Text Production
+5589,Text Production
+5590,Text Production
+5591,Text Production
+5592,Text Production
+5593,Text Production
+5594,Text Production
+5595,Text Production
+5596,Text Production
+5597,Text Production
+5598,Text Production
+5599,Text Production
+5600,Text Production
+5601,Text Production
+5602,Text Production
+5603,Text Production
+5604,Text Production
+5605,Section Planning
+5606,Section Planning
+5607,Section Planning
+5608,Section Planning
+5609,Section Planning
+5610,Section Planning
+5611,Section Planning
+5612,Section Planning
+5613,Section Planning
+5614,Section Planning
+5615,Section Planning
+5616,Section Planning
+5617,Section Planning
+5618,Section Planning
+5619,Section Planning
+5620,Section Planning
+5621,Section Planning
+5622,Section Planning
+5623,Section Planning
+5624,Section Planning
+5625,Section Planning
+5626,Section Planning
+5627,Section Planning
+5628,Section Planning
+5629,Section Planning
+5630,Section Planning
+5631,Section Planning
+5632,Section Planning
+5633,Section Planning
+5634,Clarity
+5635,Fluency
+5636,Clarity
+5637,Clarity
+5638,Clarity
+5639,Text Production
+5640,Text Production
+5641,Text Production
+5642,Text Production
+5643,Clarity
+5644,Clarity
+5645,Clarity
+5646,Clarity
+5647,Clarity
+5648,Clarity
+5649,Clarity
+5650,Clarity
+5651,Clarity
+5652,Clarity
+5653,Clarity
+5654,Clarity
+5655,Clarity
+5656,Clarity
+5657,Clarity
+5658,Clarity
+5659,Clarity
+5660,Clarity
+5661,Clarity
+5662,Clarity
+5663,Clarity
+5664,Clarity
+5665,Clarity
+5666,Clarity
+5667,Clarity
+5668,Clarity
+5669,Structural
+5670,Structural
+5671,Structural
+5672,Text Production
+5673,Text Production
+5674,Text Production
+5675,Text Production
+5676,Text Production
+5677,Text Production
+5678,Text Production
+5679,Text Production
+5680,Text Production
+5681,Text Production
+5682,Text Production
+5683,Text Production
+5684,Text Production
+5685,Text Production
+5686,Text Production
+5687,Text Production
+5688,Text Production
+5689,Text Production
+5690,Text Production
+5691,Text Production
+5692,Text Production
+5693,Text Production
+5694,Text Production
+5695,Text Production
+5696,Text Production
+5697,Text Production
+5698,Text Production
+5699,Fluency
+5700,Fluency
+5701,Fluency
+5702,Text Production
+5703,Text Production
+5704,Text Production
+5705,Text Production
+5706,Text Production
+5707,Text Production
+5708,Text Production
+5709,Text Production
+5710,Coherence
+5711,Coherence
+5712,Text Production
+5713,Text Production
+5714,Text Production
+5715,Text Production
+5716,Text Production
+5717,Text Production
+5718,Text Production
+5719,Text Production
+5720,Text Production
+5721,Text Production
+5722,Text Production
+5723,Text Production
+5724,Text Production
+5725,Text Production
+5726,Text Production
+5727,Text Production
+5728,Text Production
+5729,Clarity
+5730,Clarity
+5731,Coherence
+5732,Text Production
+5733,Text Production
+5734,Text Production
+5735,Text Production
+5736,Text Production
+5737,Text Production
+5738,Text Production
+5739,Text Production
+5740,Text Production
+5741,Text Production
+5742,Text Production
+5743,Text Production
+5744,Text Production
+5745,Text Production
+5746,Text Production
+5747,Text Production
+5748,Text Production
+5749,Text Production
+5750,Text Production
+5751,Text Production
+5752,Text Production
+5753,Text Production
+5754,Text Production
+5755,Text Production
+5756,Text Production
+5757,Text Production
+5758,Text Production
+5759,Text Production
+5760,Text Production
+5761,Text Production
+5762,Text Production
+5763,Text Production
+5764,Text Production
+5765,Text Production
+5766,Text Production
+5767,Text Production
+5768,Text Production
+5769,Text Production
+5770,Text Production
+5771,Text Production
+5772,Fluency
+5773,Text Production
+5774,Text Production
+5775,Text Production
+5776,Text Production
+5777,Text Production
+5778,Text Production
+5779,Text Production
+5780,Text Production
+5781,Text Production
+5782,Text Production
+5783,Text Production
+5784,Text Production
+5785,Text Production
+5786,Text Production
+5787,Text Production
+5788,Text Production
+5789,Text Production
+5790,Text Production
+5791,Text Production
+5792,Text Production
+5793,Text Production
+5794,Text Production
+5795,Text Production
+5796,Text Production
+5797,Text Production
+5798,Text Production
+5799,Text Production
+5800,Text Production
+5801,Text Production
+5802,Text Production
+5803,Text Production
+5804,Text Production
+5805,Text Production
+5806,Text Production
+5807,Text Production
+5808,Text Production
+5809,Text Production
+5810,Text Production
+5811,Text Production
+5812,Text Production
+5813,Text Production
+5814,Text Production
+5815,Text Production
+5816,Text Production
+5817,Text Production
+5818,Text Production
+5819,Text Production
+5820,Text Production
+5821,Text Production
+5822,Text Production
+5823,Text Production
+5824,Text Production
+5825,Text Production
+5826,Text Production
+5827,Text Production
+5828,Text Production
+5829,Text Production
+5830,Text Production
+5831,Text Production
+5832,Text Production
+5833,Text Production
+5834,Text Production
+5835,Text Production
+5836,Text Production
+5837,Text Production
+5838,Text Production
+5839,Text Production
+5840,Text Production
+5841,Text Production
+5842,Text Production
+5843,Text Production
+5844,Text Production
+5845,Text Production
+5846,Text Production
+5847,Text Production
+5848,Text Production
+5849,Text Production
+5850,Text Production
+5851,Text Production
+5852,Text Production
+5853,Text Production
+5854,Text Production
+5855,Text Production
+5856,Text Production
+5857,Text Production
+5858,Text Production
+5859,Text Production
+5860,Text Production
+5861,Text Production
+5862,Text Production
+5863,Text Production
+5864,Text Production
+5865,Text Production
+5866,Text Production
+5867,Text Production
+5868,Text Production
+5869,Text Production
+5870,Text Production
+5871,Text Production
+5872,Text Production
+5873,Text Production
+5874,Text Production
+5875,Text Production
+5876,Text Production
+5877,Text Production
+5878,Text Production
+5879,Text Production
+5880,Text Production
+5881,Text Production
+5882,Text Production
+5883,Text Production
+5884,Text Production
+5885,Text Production
+5886,Text Production
+5887,Text Production
+5888,Text Production
+5889,Text Production
+5890,Text Production
+5891,Text Production
+5892,Text Production
+5893,Text Production
+5894,Text Production
+5895,Text Production
+5896,Text Production
+5897,Text Production
+5898,Text Production
+5899,Text Production
+5900,Text Production
+5901,Text Production
+5902,Text Production
+5903,Text Production
+5904,Text Production
+5905,Text Production
+5906,Text Production
+5907,Text Production
+5908,Text Production
+5909,Text Production
+5910,Text Production
+5911,Text Production
+5912,Text Production
+5913,Text Production
+5914,Text Production
+5915,Text Production
+5916,Text Production
+5917,Text Production
+5918,Text Production
+5919,Text Production
+5920,Text Production
+5921,Text Production
+5922,Text Production
+5923,Text Production
+5924,Text Production
+5925,Text Production
+5926,Text Production
+5927,Text Production
+5928,Text Production
+5929,Text Production
+5930,Text Production
+5931,Text Production
+5932,Text Production
+5933,Text Production
+5934,Text Production
+5935,Text Production
+5936,Text Production
+5937,Text Production
+5938,Text Production
+5939,Text Production
+5940,Text Production
+5941,Text Production
+5942,Text Production
+5943,Text Production
+5944,Text Production
+5945,Text Production
+5946,Text Production
+5947,Text Production
+5948,Text Production
+5949,Text Production
+5950,Text Production
+5951,Text Production
+5952,Text Production
+5953,Text Production
+5954,Text Production
+5955,Text Production
+5956,Text Production
+5957,Text Production
+5958,Text Production
+5959,Text Production
+5960,Text Production
+5961,Text Production
+5962,Text Production
+5963,Text Production
+5964,Text Production
+5965,Text Production
+5966,Text Production
+5967,Text Production
+5968,Text Production
+5969,Text Production
+5970,Text Production
+5971,Text Production
+5972,Text Production
+5973,Text Production
+5974,Text Production
+5975,Text Production
+5976,Text Production
+5977,Text Production
+5978,Text Production
+5979,Text Production
+5980,Text Production
+5981,Text Production
+5982,Text Production
+5983,Text Production
+5984,Text Production
+5985,Text Production
+5986,Text Production
+5987,Text Production
+5988,Text Production
+5989,Text Production
+5990,Text Production
+5991,Text Production
+5992,Text Production
+5993,Text Production
+5994,Text Production
+5995,Text Production
+5996,Text Production
+5997,Text Production
+5998,Text Production
+5999,Text Production
+6000,Text Production
+6001,Text Production
+6002,Text Production
+6003,Text Production
+6004,Text Production
+6005,Text Production
+6006,Text Production
+6007,Text Production
+6008,Text Production
+6009,Text Production
+6010,Text Production
+6011,Text Production
+6012,Text Production
+6013,Text Production
+6014,Text Production
+6015,Text Production
+6016,Text Production
+6017,Text Production
+6018,Text Production
+6019,Text Production
+6020,Text Production
+6021,Text Production
+6022,Text Production
+6023,Text Production
+6024,Text Production
+6025,Text Production
+6026,Text Production
+6027,Text Production
+6028,Text Production
+6029,Text Production
+6030,Text Production
+6031,Text Production
+6032,Text Production
+6033,Text Production
+6034,Text Production
+6035,Text Production
+6036,Text Production
+6037,Text Production
+6038,Text Production
+6039,Text Production
+6040,Text Production
+6041,Text Production
+6042,Text Production
+6043,Text Production
+6044,Text Production
+6045,Text Production
+6046,Text Production
+6047,Text Production
+6048,Text Production
+6049,Text Production
+6050,Text Production
+6051,Text Production
+6052,Text Production
+6053,Text Production
+6054,Text Production
+6055,Text Production
+6056,Text Production
+6057,Clarity
+6058,Clarity
+6059,Clarity
+6060,Clarity
+6061,Clarity
+6062,Clarity
+6063,Clarity
+6064,Clarity
+6065,Text Production
+6066,Text Production
+6067,Text Production
+6068,Text Production
+6069,Text Production
+6070,Text Production
+6071,Text Production
+6072,Text Production
+6073,Text Production
+6074,Text Production
+6075,Text Production
+6076,Text Production
+6077,Text Production
+6078,Text Production
+6079,Text Production
+6080,Text Production
+6081,Text Production
+6082,Text Production
+6083,Text Production
+6084,Text Production
+6085,Text Production
+6086,Text Production
+6087,Text Production
+6088,Text Production
+6089,Text Production
+6090,Text Production
+6091,Text Production
+6092,Text Production
+6093,Text Production
+6094,Text Production
+6095,Text Production
+6096,Text Production
+6097,Text Production
+6098,Clarity
+6099,Fluency
+6100,Linguistic Style
+6101,Linguistic Style
+6102,Linguistic Style
+6103,Linguistic Style
+6104,Linguistic Style
+6105,Linguistic Style
+6106,Linguistic Style
+6107,Linguistic Style
+6108,Linguistic Style
+6109,Linguistic Style
+6110,Linguistic Style
+6111,Clarity
+6112,Clarity
+6113,Clarity
+6114,Clarity
+6115,Clarity
+6116,Clarity
+6117,Clarity
+6118,Clarity
+6119,Clarity
+6120,Clarity
+6121,Clarity
+6122,Clarity
+6123,Clarity
+6124,Clarity
+6125,Clarity
+6126,Clarity
+6127,Coherence
+6128,Coherence
+6129,Text Production
+6130,Text Production
+6131,Text Production
+6132,Text Production
+6133,Text Production
+6134,Text Production
+6135,Text Production
+6136,Text Production
+6137,Text Production
+6138,Text Production
+6139,Text Production
+6140,Text Production
+6141,Text Production
+6142,Text Production
+6143,Text Production
+6144,Text Production
+6145,Text Production
+6146,Text Production
+6147,Text Production
+6148,Text Production
+6149,Text Production
+6150,Text Production
+6151,Text Production
+6152,Text Production
+6153,Object Insertion
+6154,Object Insertion
+6155,Object Insertion
+6156,Visual Formatting
+6157,Visual Formatting
+6158,Visual Formatting
+6159,Coherence
+6160,Visual Formatting
+6161,Coherence
+6162,Object Insertion
+6163,Coherence
+6164,Coherence
+6165,Visual Formatting
+6166,Structural
+6167,Visual Formatting
+6168,Visual Formatting
+6169,Coherence
+6170,Visual Formatting
+6171,Fluency
+6172,Structural
+6173,Structural
+6174,Structural
+6175,Structural
+6176,Structural
+6177,Structural
+6178,Structural
+6179,Structural
+6180,Coherence
+6181,Structural
+6182,Visual Formatting
+6183,Fluency
+6184,Clarity
+6185,Clarity
+6186,Clarity
+6187,Clarity
+6188,Linguistic Style
+6189,Clarity
+6190,Clarity
+6191,Clarity
+6192,Clarity
+6193,Clarity
+6194,Clarity
+6195,Clarity
+6196,Clarity
+6197,Clarity
+6198,Clarity
+6199,Clarity
+6200,Object Insertion
+6201,Object Insertion
+6202,Object Insertion
+6203,Macro Insertion
+6204,Object Insertion
+6205,Object Insertion
+6206,Object Insertion
+6207,Structural
+6208,Structural
+6209,Structural
+6210,Citation Integration
+6211,Citation Integration
+6212,Citation Integration
+6213,Citation Integration
+6214,Fluency
+6215,Text Production
+6216,Structural
+6217,Text Production
+6218,Coherence
+6219,Text Production
+6220,Text Production
+6221,Text Production
+6222,Text Production
+6223,Text Production
+6224,Text Production
+6225,Text Production
+6226,Text Production
+6227,Text Production
+6228,Text Production
+6229,Text Production
+6230,Text Production
+6231,Text Production
+6232,Text Production
+6233,Text Production
+6234,Text Production
+6235,Text Production
+6236,Text Production
+6237,Text Production
+6238,Text Production
+6239,Text Production
+6240,Text Production
+6241,Text Production
+6242,Text Production
+6243,Text Production
+6244,Text Production
+6245,Text Production
+6246,Text Production
+6247,Text Production
+6248,Text Production
+6249,Text Production
+6250,Text Production
+6251,Text Production
+6252,Text Production
+6253,Text Production
+6254,Text Production
+6255,Text Production
+6256,Text Production
+6257,Text Production
+6258,Text Production
+6259,Text Production
+6260,Text Production
+6261,Text Production
+6262,Text Production
+6263,Text Production
+6264,Text Production
+6265,Text Production
+6266,Text Production
+6267,Text Production
+6268,Text Production
+6269,Text Production
+6270,Text Production
+6271,Text Production
+6272,Text Production
+6273,Text Production
+6274,Text Production
+6275,Text Production
+6276,Text Production
+6277,Text Production
+6278,Text Production
+6279,Text Production
+6280,Text Production
+6281,Text Production
+6282,Text Production
+6283,Text Production
+6284,Text Production
+6285,Text Production
+6286,Text Production
+6287,Text Production
+6288,Text Production
+6289,Text Production
+6290,Text Production
+6291,Text Production
+6292,Text Production
+6293,Text Production
+6294,Text Production
+6295,Text Production
+6296,Text Production
+6297,Text Production
+6298,Text Production
+6299,Text Production
+6300,Text Production
+6301,Text Production
+6302,Text Production
+6303,Text Production
+6304,Text Production
+6305,Text Production
+6306,Text Production
+6307,Text Production
+6308,Text Production
+6309,Text Production
+6310,Text Production
+6311,Text Production
+6312,Text Production
+6313,Text Production
+6314,Text Production
+6315,Text Production
+6316,Text Production
+6317,Text Production
+6318,Text Production
+6319,Text Production
+6320,Text Production
+6321,Text Production
+6322,Text Production
+6323,Coherence
+6324,Citation Integration
+6325,Citation Integration
+6326,Visual Formatting
+6327,Text Production
+6328,Text Production
+6329,Text Production
+6330,Text Production
+6331,Text Production
+6332,Text Production
+6333,Text Production
+6334,Text Production
+6335,Text Production
+6336,Text Production
+6337,Text Production
+6338,Text Production
+6339,Text Production
+6340,Text Production
+6341,Text Production
+6342,Text Production
+6343,Text Production
+6344,Text Production
+6345,Text Production
+6346,Text Production
+6347,Text Production
+6348,Text Production
+6349,Text Production
+6350,Text Production
+6351,Text Production
+6352,Text Production
+6353,Text Production
+6354,Text Production
+6355,Text Production
+6356,Text Production
+6357,Text Production
+6358,Text Production
+6359,Coherence
+6360,Clarity
+6361,Text Production
+6362,Text Production
+6363,Text Production
+6364,Text Production
+6365,Text Production
+6366,Text Production
+6367,Text Production
+6368,Text Production
+6369,Text Production
+6370,Text Production
+6371,Text Production
+6372,Text Production
+6373,Text Production
+6374,Text Production
+6375,Text Production
+6376,Text Production
+6377,Text Production
+6378,Text Production
+6379,Text Production
+6380,Text Production
+6381,Text Production
+6382,Text Production
+6383,Text Production
+6384,Text Production
+6385,Text Production
+6386,Text Production
+6387,Text Production
+6388,Text Production
+6389,Text Production
+6390,Text Production
+6391,Text Production
+6392,Text Production
+6393,Text Production
+6394,Text Production
+6395,Text Production
+6396,Text Production
+6397,Text Production
+6398,Text Production
+6399,Text Production
+6400,Text Production
+6401,Text Production
+6402,Text Production
+6403,Text Production
+6404,Text Production
+6405,Text Production
+6406,Text Production
+6407,Text Production
+6408,Text Production
+6409,Text Production
+6410,Text Production
+6411,Text Production
+6412,Text Production
+6413,Text Production
+6414,Text Production
+6415,Text Production
+6416,Text Production
+6417,Structural
+6418,Structural
+6419,Structural
+6420,Text Production
+6421,Text Production
+6422,Text Production
+6423,Text Production
+6424,Text Production
+6425,Text Production
+6426,Coherence
+6427,Text Production
+6428,Text Production
+6429,Text Production
+6430,Text Production
+6431,Text Production
+6432,Text Production
+6433,Text Production
+6434,Text Production
+6435,Text Production
+6436,Text Production
+6437,Text Production
+6438,Text Production
+6439,Text Production
+6440,Text Production
+6441,Text Production
+6442,Text Production
+6443,Text Production
+6444,Text Production
+6445,Text Production
+6446,Text Production
+6447,Text Production
+6448,Text Production
+6449,Text Production
+6450,Text Production
+6451,Coherence
+6452,Coherence
+6453,Text Production
+6454,Text Production
+6455,Text Production
+6456,Text Production
+6457,Text Production
+6458,Text Production
+6459,Text Production
+6460,Text Production
+6461,Text Production
+6462,Text Production
+6463,Text Production
+6464,Text Production
+6465,Text Production
+6466,Text Production
+6467,Text Production
+6468,Text Production
+6469,Text Production
+6470,Text Production
+6471,Text Production
+6472,Text Production
+6473,Text Production
+6474,Text Production
+6475,Text Production
+6476,Text Production
+6477,Text Production
+6478,Text Production
+6479,Text Production
+6480,Text Production
+6481,Text Production
+6482,Text Production
+6483,Text Production
+6484,Text Production
+6485,Text Production
+6486,Text Production
+6487,Text Production
+6488,Text Production
+6489,Text Production
+6490,Text Production
+6491,Text Production
+6492,Coherence
+6493,Coherence
+6494,Coherence
+6495,Coherence
+6496,Structural
+6497,Structural
+6498,Fluency
+6499,Coherence
+6500,Text Production
+6501,Text Production
+6502,Text Production
+6503,Text Production
+6504,Text Production
+6505,Text Production
+6506,Text Production
+6507,Text Production
+6508,Text Production
+6509,Text Production
+6510,Text Production
+6511,Text Production
+6512,Text Production
+6513,Text Production
+6514,Text Production
+6515,Text Production
+6516,Text Production
+6517,Text Production
+6518,Text Production
+6519,Text Production
+6520,Text Production
+6521,Text Production
+6522,Text Production
+6523,Text Production
+6524,Text Production
+6525,Text Production
+6526,Text Production
+6527,Text Production
+6528,Text Production
+6529,Text Production
+6530,Text Production
+6531,Text Production
+6532,Text Production
+6533,Text Production
+6534,Text Production
+6535,Text Production
+6536,Text Production
+6537,Text Production
+6538,Text Production
+6539,Text Production
+6540,Text Production
+6541,Text Production
+6542,Text Production
+6543,Text Production
+6544,Text Production
+6545,Text Production
+6546,Text Production
+6547,Text Production
+6548,Text Production
+6549,Text Production
+6550,Text Production
+6551,Coherence
+6552,Text Production
+6553,Text Production
+6554,Text Production
+6555,Text Production
+6556,Text Production
+6557,Text Production
+6558,Text Production
+6559,Text Production
+6560,Text Production
+6561,Text Production
+6562,Text Production
+6563,Text Production
+6564,Text Production
+6565,Text Production
+6566,Text Production
+6567,Text Production
+6568,Text Production
+6569,Text Production
+6570,Text Production
+6571,Text Production
+6572,Text Production
+6573,Text Production
+6574,Text Production
+6575,Text Production
+6576,Text Production
+6577,Text Production
+6578,Text Production
+6579,Text Production
+6580,Text Production
+6581,Text Production
+6582,Text Production
+6583,Text Production
+6584,Text Production
+6585,Text Production
+6586,Text Production
+6587,Text Production
+6588,Text Production
+6589,Text Production
+6590,Text Production
+6591,Text Production
+6592,Text Production
+6593,Text Production
+6594,Text Production
+6595,Text Production
+6596,Text Production
+6597,Text Production
+6598,Text Production
+6599,Text Production
+6600,Text Production
+6601,Citation Integration
+6602,Fluency
+6603,Fluency
+6604,Fluency
+6605,Coherence
+6606,Coherence
+6607,Coherence
+6608,Coherence
+6609,Clarity
+6610,Structural
+6611,Structural
+6612,Structural
+6613,Coherence
+6614,Linguistic Style
+6615,Linguistic Style
+6616,Linguistic Style
+6617,Linguistic Style
+6618,Text Production
+6619,Structural
+6620,Structural
+6621,Structural
+6622,Clarity
+6623,Clarity
+6624,Clarity
+6625,Structural
+6626,Structural
+6627,Structural
+6628,Structural
+6629,Idea Organization
+6630,Coherence
+6631,Object Insertion
+6632,Object Insertion
+6633,Visual Formatting
+6634,Visual Formatting
+6635,Structural
+6636,Structural
+6637,Structural
+6638,Structural
+6639,Structural
+6640,Visual Formatting
